@@ -280,17 +280,7 @@ def filler_ratio(text):
     else:
         return -1
 
-
-def obscenity_usage(text):
-
-    obscenities = re.findall('( ass | ass\.|asshole|arse|bastard|bitch|cunt|damn|dick|douche|fuck|hell|piss|pussy|shit|slut|whore)', text)
-    return len(obscenities)
-
-
-def fuck_count(text):
-    return len(re.findall('fuck', text))
-
-
+    
 def contraction_ratio(text):
 
     full = ['do not', 'what is', 'where is', 'where did', 'would not', 'could not', 'cannot', 'can not', 'will not', 'are not', 'is not', 'have not', 'had not', 'has not', 'he is', 'he will', 'she is', 'she will', 'they are', 'they will', 'I am', 'should have']
