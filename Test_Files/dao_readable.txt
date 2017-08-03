@@ -1,0 +1,2791 @@
+﻿Zevran: So are you a very religious man, Alistair? I am curious. I believe I heard you say you were raised in an abbey?
+Alistair: I was raised in a castle. I was schooled in the abbey. As far as being religious... I don't know. Not especially. What about you? Not in your line of work, I expect.
+Zevran: Why do you say that? I happen to be quite devoted, in my way, as most Antivans are.
+Alistair: Truly? But you kill people. For money.
+Zevran: And I ask forgiveness for my sins from the Maker every chance I get. What manner of monster do you think I am?
+Alistair: But... you ask forgiveness and then you go right on with your sinning!
+Zevran: The Maker has never objected. Why should you?
+Alistair: I... have no idea.
+Zevran: Well there you go. Perhaps you ought to think about asking for a little forgiveness yourself, hm?
+───────
+Alistair: So why would the Crows send you, Zevran?
+Zevran: Is there some reason why they should not?
+Alistair: Plenty of reasons. Starting with the fact that you weren't exactly the best they had, were you?
+Zevran: Slander and lies. For shame, Alistair.
+Alistair: I'm not an idiot. Well, not most of the time. You're no raw recruit, but I've seen you fight. You're no master of combat, by any means.
+Zevran: Assuming that I intended a fair fight, that would indeed be a problem.
+Alistair: But the Crows must have master assassins, the way you describe them. Men with years and years of experience. Why not send them?
+Zevran: Why not, indeed? It is a mystery for the ages.
+Alistair: Oh, I get it. You're not going to tell me.
+Zevran: Morrigan said you were sharp. No liar, she.
+───────
+Zevran: Still with the stern glances, Alistair?
+Alistair: You didn't answer my question. About why the Crows wouldn't send their best man.
+Zevran: So for that I must suffer all these fearsome glares? You are cruel to subject me to such torture.
+Alistair: If you aren't telling me, there must be a reason.
+Zevran: If you must know, the masters do not often take contracts outside Antiva. And I made the best bid.
+Alistair: Best bid?
+Zevran: We agree to pay the guild a portion of whatever the contract offers. The one who agrees to pay the most gets the contract, so long as the guild deems them worthy.
+Alistair: And they thought you were worthy?
+Zevran: Against a pair of Grey Warden recruits? Apparently so.
+Alistair: Were there many who wanted the contract?
+Zevran: None. You are still Grey Wardens, after all, and even in Antiva, killing members of your order is considered... impolitic. It made the guild's decision considerably easier, I imagine.
+Alistair: Well that's comforting, somehow.
+───────
+Alistair: So those... designs you have all over your back...
+Zevran: They're called tattoos. And I have them in many more places than just on my back, my friend.
+Alistair: Err... right. I hear that someone gets those by having needles put the ink under your skin?
+Zevran: A great many needles, amongst other things. Yes, that would be true.
+Alistair: Didn't that hurt?
+Zevran: Ohhh, yes, yes. But it is not so bad, in truth. If you like, I could give you one. I learned a bit of the art myself in Antiva.
+Alistair: Oh, no. No, I don't think so.
+Zevran: Come, it will just be a small one. Perhaps the symbol of the Grey Wardens? Something manly! Where are my needles?
+Alistair: Um... maybe some other time. I'm... I'm going to go stand over here, now.
+───────
+Alistair: The stories we hear down here about the Crows... they're not true, are they? They all sound a little far-fetched.
+Zevran: I cannot say. What have you heard? In Antiva, we hear that Ferelden men cannot sleep without a dog in their bed. Is that true?
+Alistair: A dog? No, of course not. We value our dogs, it's part of our history.
+Zevran: Oh. Perhaps it was simply a reference to your Ferelden women, then?
+Alistair: *Laughs* Well, now that you mention it...
+Zevran: But those stories you heard? All true.
+Alistair: Really. Even the ones that talk about how you all... you know... get paid to...
+Zevran: Especially those ones.
+Alistair: Wow. I am totally in the wrong order.
+───────
+Alistair: I've been thinking about those ink drawings, what did you call them? Tattoos? Are you... still willing to do one?
+Zevran: Oh-ho! You've decided to take the plunge, have you? What is a little pain, am I right?
+Alistair: I'm not worried about that. I think they look interesting, though I'd want mine... smaller. When can you do it?
+Zevran: Not so fast, my friend. There is an entire ritual to how this is done, do you not know? First I need to bathe you in a mixture of olives and rosewater.
+Alistair: You need to... bathe me? That seems... odd.
+Zevran: No, no, no, not at all. It needs to be worked into your skin, preparing it to receive the ink. The massage is quite pleasurable, do not worry. You are in good hands.
+Alistair: The... massage? You're... having me on, aren't you?
+Zevran: I might be. I might not be. Shall I describe the rest of the ritual to you?
+Alistair: Hmm. No. No, on second thought I'll just pass.
+Zevran: *Laughs* Excellent choice!
+───────
+Alistair: As a Crow, you were an assassin in Antiva, right? Professionally?
+Zevran: Technically speaking, I still am. Somewhat between jobs, as it turns out.
+Alistair: So how much did you charge to... you know... kill someone? Was it very expensive? Did it depend on who they were?
+Zevran: Such curiosity. Are you thinking of having someone murdered, my friend Alistair? Or are you considering a career change?
+Alistair: No, neither. It just seems odd to me that you could make a living doing that. Or that you would need an entire guild just to handle so many... jobs.
+Zevran: Ahhh. Assassination in Antiva is a tradition. It is more efficient than an election, as we say. "Politics and death go together like kisses and love-making." It costs a great deal depending on how experienced the Crow is... and how difficult the target is to kill. You? I would charge perhaps five thousand andris for you.
+Alistair: Five thousand andris? Is that a lot?
+Zevran: Mmm, not really, no.
+───────
+Alistair: So I have a question for you, Zevran. You're here, at least in part, to get away from the Crows, right?
+Zevran: That is indeed true.
+Alistair: So when this is over, what do you intend to do with yourself? You can't go back to Antiva, I assume.
+Zevran: What I do depends in large part upon your fellow Grey Warden. I am not a free man, as it were.
+Alistair: Yes, yes, but what if you could do whatever you wanted?
+Zevran: What makes you think I intend to go anywhere? / (If the Warden is in a romance with Zevran) Why should I go anywhere? You Grey Wardens are the epitome of charm and hospitality.
+Alistair: So you do intend to go back to the Crows?
+Zevran: I said no such thing. I think I should stay where I am. Ferelden is a marvelous country.
+Alistair: Why don't I believe you?
+Zevran: You're not much of a patriot, are you? Well I'm not going to listen to such slander of my new home. Off with you, then.
+(Alternate version if Alistair's parentage has been revealed and the Warden is not in a romance with Zevran.)
+Zevran: Oh, I don't know. Aren't you going to be king? Perhaps you have people you need killed?
+Alistair: I probably do, yes. / (If Alistair is unhardened) Is there some reason I shouldn't just kill them, myself?
+Zevran: See? It's that sort of thinking that makes me think I have a future in this fine country of yours. / (If Alistair is unhardened) See? It's that sort of talk that is bad for business. Have you no thought to supporting the employment of your subjects?
+Alistair: That's assuming I would hire you. / (If Alistair is unhardened) Ha! Not for assassins I don't.
+Zevran: That's the lovely thing about kings. They make for good business, as the client or the target.
+Alistair: And people wonder why someone might not want to be king.
+───────
+(If the Warden is in a romance with Alistair)
+Alistair: Do you mind if I ask you a personal question?
+Zevran: You may ask, but I may choose not to answer.
+Alistair: Fair enough. Have you... had very many women in your time? I mean... you seem like the sort of man who would...
+Zevran: I have indulged from time to time, perhaps, when my interest is not elsewhere.
+Alistair: Right. Well, how do you... woo them? Is there a... technique? Or...
+Zevran: "Woo them?" Are you quite serious?
+Alistair: Er... yes? I don't know what else to call it.
+Zevran: So let me get this straight. You have... never wooed? Not once? You are woo-less, as it were?
+Alistair: All right. Bad idea. Never mind.
+───────
+(If the Warden slept with Alistair)
+Zevran: Might I offer you a bit of advice, my good friend Alistair?
+Alistair: I like my hair the way it is, thank you.
+Zevran: Truly? As you wish... though my advice is regarding something else completely. It has to do with your recent... exertions with your fellow Grey Warden that I overheard.
+Alistair: My...? Oh.
+Zevran: It did seem as if you just got going when all grew quiet. You are... feeling all right, yes? Perhaps you are tired?
+Alistair: We aren't talking about this, are we? Did I hit my head?
+Zevran: I have some roots from home that you may chew if you need energy. As for volume, perhaps you ought to try arching your--
+Alistair: Whoa! Whoa! Awkward!
+Zevran: You Fereldens are so finicky. How will you ever learn how to pleasure each other unless you talk about it?
+Alistair: Not listening! La la la la la!
+───────
+(If a female Warden is in a romance with Zevran)
+Alistair: So let me ask you something. What are your intentions with her?
+Zevran: You speak of her as if she is not present. She is just right over there, you know...
+Alistair: Don't dodge the question. I'm serious.
+Zevran: Is this brotherly concern I detect? Or something else? Perhaps you are concerned for me, yes?
+Alistair: I am just asking what your intentions are. You did try to kill us all, remember?
+Zevran: And now I owe her a blood debt, as she has spared my life. It has brought us... closer together.
+Alistair: Is that a smirk? Are you smirking at me?
+Zevran: I assure you, ser, that I am not smirking. No smirking here, no.
+Alistair: Well, just... watch yourself, then. I'll be keeping an eye on you.
+(Alternate version if the Warden is also in a romance with Alistair)
+Alistair: So let me ask you something. What are your intentions with her?
+Zevran: You speak of her as if she is not present. She is just right over there, you know...
+Alistair: Don't dodge the question. I'm serious.
+Zevran: Mmm. Do I detect a bit of jealousy there? Feeling territorial, are we?
+Alistair: I am just asking what your intentions are. You did try to kill us all, remember?
+Zevran: And now I owe her a blood debt, as she has spared my life. It has brought us... closer together.
+Alistair: Is that a smirk? Are you smirking at me?
+Zevran: I assure you, ser, that I am not smirking. No smirking here, no.
+Alistair: Well, just... watch yourself, then. I'll be keeping an eye on you.
+───────
+(If Alistair's heritage is revealed)
+Zevran: You know, Alistair, Antiva has a long tradition of royal bastards.
+Alistair: You don't say?
+Zevran: Oh, yes. They've led wars to claim the throne. Some of them have become kings. In fact, I'd say the current royal line in Antiva stems from bastard blood several times over.
+Alistair: Well aren't you just chock full of useless trivia today.
+Zevran: Sadly, whenever a royal bastard rears their head in public and declares themselves, it often goes poorly for them.
+Alistair: Let me guess: they get assassinated?
+Zevran: Only the very popular ones.
+Alistair: And the unpopular ones?
+Zevran: Well, they get by somehow, I'm sure. There was one fellow who did quite well working as a prostitute based on his uncanny resemblance to the king. Charged a fortune.
+Alistair: Couldn't afford him, I take it?
+Zevran: That cynicism will serve you well, my friend. Hold onto it.
+───────
+(If Alistair will become king)
+Alistair: So what do you have to say about me becoming king? I suppose you don't care?
+Zevran: No, no, I think it is quite marvelous. A most unusual way to pick a king, however.
+Alistair: Unusual? I guess it was a bit... unorthodox, even by our standards. Why? How does a king get picked in Antiva?
+Zevran: Oh, he or she is elected, of course. Provided they make it to the election without being first assassinated.
+Alistair: Yes, from what you said that seems to happen a lot there. Makes me wonder why anyone would even want to be king.
+Zevran: It is considered a very brave and impressive thing to attempt to become king of Antiva. Sometimes nobody steps forward at all, sadly.
+Alistair: And what happens then?
+Zevran: Why, we start assassinating those who we think should run until someone does. Never let it be said that the Crows are not patriots.
+Zevran and MorriganEdit
+Morrigan: So what is going to keep you from poisoning your target now that you have been allowed to accompany us, I wonder?
+Zevran: You are. You will be watching me ever so closely to make sure I attempt no such thing.
+Morrigan: And why would I do such a thing? Sneaking into our good graces in order to make another attempt is what I would do, were I you.
+Zevran: And here I was becoming rather fond of the idea of you watching me closely.
+Morrigan: It would be a simple enough matter to poison the food in camp. Or cut our throats while we sleep.
+Zevran: You seem rather charmed by the idea.
+Morrigan: It would seem an appropriate result of sparing your life.
+Zevran: Ah. Well, I'm sorry to disappoint you then. The next time I am spared I will be sure to immediately turn upon my benefactors. Will that do?
+───────
+Morrigan: You do still intend to kill your target, do you not? Is your reputation not on the line?
+Zevran: Are you still on about this, woman?
+Morrigan: I am led to believe that the Crows would never permit such a transgression. They will come after you, and in force.
+Zevran: It has come to my attention that the Crows are not always successful when pit against Grey Wardens and their companions.
+Morrigan: Perhaps they will send someone competent next time.
+Zevran: You wound me.
+Morrigan: I have considered doing far more than that, trust me.
+───────
+Morrigan: So you do not fear the Crows at all?
+Zevran: I think of it more as my desire to leave them far exceeds the fear I possess of them.
+Morrigan: You think the Grey Wardens will give you safe harbor once all this is done? Surely you are not so naive.
+Zevran: I am willing to take my chances.
+Morrigan: And if you are wrong?
+Zevran: Then I will be dead. One does not do what I do and fear death so very greatly.
+Morrigan: There are fates worse than death.
+Zevran: And one of them is being unable to choose which master you serve. Trust me, my dear, I am well pleased with my current direction.
+───────
+Morrigan: These Crows of yours, Zevran. Are they as extraordinary as you claim?
+Zevran: They all but rule over my homeland. Do you find that extraordinary?
+Morrigan: If true. Are they so powerful simply because they are very good at what they do? Or is there some secret to their power?
+Zevran: If there were a secret, it would only remain so if it were not told, my dear.
+Morrigan: You are not longer bound to such a code. or do you believe their wrath will be greater than it already is, should you speak out of turn?
+Zevran: It may be that I simply do not wish to tell you. You get the most delightful wrinkle in your brow when you are curious.
+Morrigan: I see. You are impossibly frustrating, you know this.
+Zevran: I do. It is part of my charm, or so I'm told.
+───────
+Zevran: Your mother is supposedly the one called Flemeth, the very witch from legend, is that not true?
+Morrigan: There is nothing "supposed" about it. Flemeth is my mother.
+Zevran: Hmm. I was more doubtful of the legend rather than your relationship to this woman. Anyone can claim a name, after all.
+Morrigan: You're welcome to ask her, if you ever meet her. You're just her type.
+Zevran: Oh? Elven and handsome?
+Morrigan: The sort that will never be missed.
+Zevran: Sounds intriguing, if you ask me.
+Morrigan: You assassin types have a death wish, I see.
+Zevran: (Laughs) Only the really good ones.
+───────
+Zevran: So if the legend of your mother is true, Morrigan, does that mean that the legends of her many daughters are as well?
+Morrigan: To be honest, I have no idea. I've never met any sister of mine, nor has my mother spoken of any.
+Zevran: But it could be true, yes? If you exist, there could have been others like you.
+Morrigan: Long ago, perhaps. Why?
+Zevran: We have legends of witches in Antiva. one that tells of a Witch of the Wild, traveled far from her home to settle in the Tellari Swamps.
+Morrigan: And? You thought I might know this woman?
+Zevran: If one legend can be true, why not another? Who knows how many Morrigans are scattered about Thedas, hmm?
+Morrigan: It's not something I'd like to contemplate.
+Zevran: Oh? You do not appreciate a little competition from a half-sister or two?
+Morrigan: Silence, elf. It is none of your concern.
+───────
+Zevran: Such sinister glares do you a disservice, dear Morrigan. Yours should be a face that smiles.
+Morrigan: Do tell.
+Zevran: Has no one told you? Perhaps that is not surprising, considering you have lived such a sheltered life. Were you a woman of the city, you would be accustomed to men showering you with praise and gifts.
+Morrigan: I know as much of men as I need to. I know when one is indulging in pointless flattery, for instance.
+Zevran: It is flattery only if I exaggerate the truth to please you. I am but stating a simple fact.
+Morrigan: Tell me, does this work on other women?
+Zevran: I think any woman would like to hear the truth of how her beauty affects a man. Do you not?
+Morrigan: I think that sort of manure is best reserved for farming.
+Zevran: Ah, one day you will realize that you have wasted your youth and beauty on bitterness and suspicion, mark my words.
+Morrigan: Remind me to bring you along if we go sailing. The hot air will prove useful.
+───────
+(With Leliana, Alistair, or Oghren in the party)
+Zevran: Has anyone told you what marvellous eyes you possess, my dear?
+Morrigan: Again with the flattery? Do you not tire from these pointless exercises?
+Zevran: In Antiva, women are accustomed to being showered with the praise they deserve. Men should worship you at your feet as you pass.
+Morrigan: They don't find that incredibly annoying?
+Zevran: They are goddesses receiving their subjects, just as you should be. Whatever would be annoying about that?
+Morrigan: I have no wish to be placed upon a pedestal.
+Zevran: But you deserve no less. You should be admired by painters, copied by sculptors, exalted by poets! Surely you know that yours is a beauty so exotic it--it would turn the eye of the Maker Himself!
+Morrigan: Well, I suppose I...
+(With Alistair)
+Alistair: By the Maker! You were right! You win, I guess. (Alistair is unhardened)
+Alistair: By the Maker! You were right. You win. (Alistair is hardened)
+Zevran: Thank you, ser. I expect payment forthwith. (Alistair is unhardened)
+Zevran: I think you owe me five silvers, yes? (Alistair is hardened)
+Morrigan: I hate you all.
+(With Leliana)
+Leliana: You are a master indeed, Zevran. You win the bet fair and square.
+Zevran: Much obliged, madame.
+Morrigan: I hate you all.
+(With Oghren)
+Oghren: Hmph. Fine. So I owe you a flagon. Bastard.
+Zevran: Much obliged, ser.
+Morrigan: I hate you all.
+───────
+(If the Warden is in a romance with Zevran)
+Morrigan: That is wily of you, Zevran.
+Zevran: What is so wily of me, o magical temptress?
+Morrigan: Getting in the good graces of the one who decides whether you live or die. Not to mention the one who can protect you against your former comrades.
+Zevran: And I am supposed to believe you are here because of a... sense of patriotism, perhaps?
+Morrigan: Ha! Hardly that.
+Zevran: We all have our reasons for doing what we do. Mine happen to come with a set of strong hands. (Male Warden)
+Zevran: We all have our reasons for doing what we do. Mine happen to come with a set of lovely eyes. (Female Warden)
+───────
+(If the Warden is in a romance with Morrigan)
+Zevran: I see your friendship with the Grey Warden is going very well.
+Morrigan: Is there a reason you say that with a smirk, elf?
+Zevran: I think you know. You and I are not so dissimilar after all. I know what you are doing, lovely woman.
+Morrigan: And what is it that you think I am doing? Besides the Grey Warden that is.
+Zevran: Biding your time, naturally. But for what, I wonder?
+Morrigan: Why don't you ask him, if you're so curious.
+Zevran: I doubt that he even knows. I am content to wait and see for myself, however.
+Morrigan: Then don't bring it up again.
+(Alternate version if the Warden is also in a romance with Zevran)
+Zevran: I see your friendship with the Grey Warden is going very well.
+Morrigan: As is yours.
+Zevran: A-ha! Then you know?
+Morrigan: I am not a fool, if you thought me one.
+Zevran: I do not think you a fool, my lovely woman. We are not so dissimilar, after all. I know what you are doing.
+Morrigan: And what is it that you think I am doing? Besides the Grey Warden that is.
+Zevran: Biding your time, naturally. But for what, I wonder?
+Morrigan: Why don't you ask him, if you're so curious.
+Zevran: I doubt that he even knows. I am content to wait and see for myself, however.
+Morrigan: Then don't bring it up again.
+───────
+(After completing Flemeth's Real Grimoire)
+Zevran: So I wonder, do you intend to take your mother's place, now?
+Morrigan: Take her place? What do you mean?
+Zevran: As the new Witch of the Wild. That was her title, no? When one slays the queen, it's assumed they'll take her throne.
+Morrigan: Considering the throne is a small shack in the middle of a cold wilderness, I think I may just pass.
+Zevran: And why would you lie to me, I wonder?
+Morrigan: Ah. Is this the part where you hint at some subtle plot of mine? Because you are so very perceptive?
+Zevran: So you didn't know what your mother planned until you read it in that book, that's what you said.
+Morrigan: That is correct.
+Zevran: I admire you. You are a wicked, wicked woman.
+Morrigan: And you are a fool who spends far too much time on his hair.
+───────
+(After Alistair's heritage is revealed)
+Morrigan: Think of it, Zevran. you may have stumbled into a most delightful possibility for your future.
+Zevran: Oh? Are you dispensing professional advice now?
+Morrigan: It simply occurs to me that if, say, Alistair were to become king of Ferelden he may have need of someone of your... talents.
+Zevran: From what I know of the fellow it seems there would be a fair difference between what he needed and what he cared to make use of.
+Morrigan: If Alistair becomes king, it would certainly not be through any brilliance on his part. Whoever puts him there... now there's the one who will need you.
+Zevran: Hmmm. Now that's an interesting thought. You've such a devious mind, my dear. Why have we not made love as of yet?
+Morrigan: For what purpose? I would sooner stab you in the face than let you touch me, elf.
+Zevran: And somehow that makes the idea even more intriguing...
+Zevran and OghrenEdit
+Zevran: Hello my stocky little friend!
+Oghren: Huh. You got small breasts for a gal.
+Zevran: Ah. This is where we begin the typical dwarven/elven rivalry, is it?
+Oghren: Nahhh.
+───────
+Oghren: So... Antiva. Wonderful place. Full of... Antivans.
+Zevran: Oghren. If you want to bed me, you have only to ask.
+Oghren: What!? Draw your weapon and say that again!
+Zevran: (Laughs) I jest, my foul-smelling friend. You are only slightly more attractive to me than a slime-filled pool of swamp water.
+Oghren: (Grunts) Better be.
+Zevran: You have my oath.
+Oghren: Bloody Antivans.
+───────
+(Entering the Brecilian Forestt)
+Oghren: Well, here we are, elf. The homeland of your people.
+Zevran: I am from Antiva, Oghren. I don't go into forests as a rule.
+Oghren: Huh, I thought you elves were all from the woods. With the flowers and the wind and what-not.
+Zevran: The Dalish perhaps. Most of us were born with a roof over our head.
+Oghren: Then why the sod do we keep hearing about elves frolicking in the thicket and nug-spew like that?
+Zevran: Could it be that Orzammar's archives aren't the most accurate authority on elves?
+Oghren: Heh. Orzammar's archives are hardly an authority on Orzammar's archives.
+Zevran: I'm just cheered by the thought that you might have picked up a book at some point.
+Oghren: Heh. It had pictures. Dirty ones.
+Zevran: (Sighs) Well, naturally.
+───────
+Zevran: What exactly are you drinking my fine dwarven friend?
+Oghren: You can't have any!
+Zevran: Do not worry, I won't. The stench is worse than your feet.
+Oghren: What're you doing smelling my feet, uh? Is that some kind of Antivan perversion?
+Zevran: It is difficult not to smell your feet. Perhaps in Antiva.
+Oghren: Now you're beginning to sound like Branka.
+Zevran: Well, she must have been a dwarf with astoundingly clean feet.
+───────
+Zevran: You never did answer my question about that filth you so enjoy.
+Oghren: That's right, I didn't.
+Zevran: How is it that you never seem to run out? Are you purchasing it somewhere?
+Oghren: Bah. Nobody sells the good stuff.
+Zevran: Then are you making it? I don't see a still at the camp...And you aren't walking around with a keg, so unless you're... oh no...
+Oghren: What? Where has that perverted elven mind of yours gone?
+Zevran: That... would explain the smell... Suddenly I'm not so interested in trying a sample...
+───────
+Oghren: I would have thought saving the surface would have involved less walking.
+Zevran: Little legs getting tired?
+Oghren: I thought these people had animals. Horses and such.
+Zevran: In Orlais, perhaps, but not here. If you like, I could hoist you up on my back.
+Oghren: Hey now, don't start with the--
+Zevran: Yes, climb up, and I'll cart you around like a child! Marvelous fun!
+Oghren: You knife-eared pipe-cleaner, you couldn't carry me on your best day.
+Zevran: Mmmm. Perhaps if you left behind the spirits, all the weapons, and lost about two feet of beard...
+Oghren: Ach. I give up. Just keep walking.
+───────
+Oghren: Hey, elf. You're all right.
+Zevran: Am I?
+Oghren: Aye. I was thinking, I was thinking that you're... you're just all right.
+Zevran: Drunk again, Oghren?
+Oghren: "Drunk again, Oghren?" You sound like my father. He was all, "You're drunk; stop wetting on the table."
+Zevran: How dare he.
+Oghren: Least my mom had the good sense to hide the booze from him. So, you know, she could drink where he couldn't see her. (Laughs)
+Zevran: That's heartwarming.
+Oghren: Hey buddy, let's not go crazy or anything. Keep your pants where I can see 'em.
+───────
+Oghren: Elf!
+Zevran: Oghren!
+Oghren: I have something to say to you!
+Zevran: I am all ears, as we elves like to say.
+Oghren: I... Well, now I forgot.
+Zevran: Alas.
+Oghren: But just know I had something.
+Zevran: You've had several somethings, I suspect. It's part of your charm.
+───────
+Zevran: So is it very strange for you, my friend, living in the world of the tall?
+Oghren: Here I thought I was living in the world of the nosy and the stupid.
+Zevran: It just occurred to me. Chairs are too high. Tables are out of reach. Using the toilet facilities alone must be a lesson in humility.
+Oghren: I'm not bloody two feet tall, you swishy nug-licker!
+Zevran: And then the light! After all that gloom of Orzammar and the Deep Roads, it's a wonder you don't wander about squinting in pain.
+Oghren: It is bright, I'll give you that.
+Zevran: And... oh! Not to have a roof over your head! You must constantly fear that you'll fall up into that vast, endlessly open sky.
+Oghren: Uh...
+Zevran: One day you live within the surety of a mountain, and then gone! Nothing but vacuum, nothing to stop you from being sucked up into the void, nothing to--
+Oghren: Stop! One more word and I chop you down where you stand!
+Zevran: You are a brave, brave little soldier, my friend.
+───────
+Oghren: I just don't understand you elves. Not one bit.
+Zevran: Oh? Where is your comprehension lacking, my friend?
+Oghren: These humans... they turn you all into slaves. They... what did they do? They destroy your homeland! Twice!
+Zevran: What is your point, dwarf?
+Oghren: Well, I just don't understand. Why don't you just... kill 'em all?
+Zevran: There are a great many more humans than elves, if you haven't noticed.
+Oghren: So? There's a hundred humans for every dwarf, too, but you don't see us bending over an' getting our pipes cleaned, do you?
+Zevran: That's big talk for a man who lives in a tunnel.
+Oghren: All I know is the dwarves would never stand for it. You'd think you elves would have learned to duck.
+Zevran: That must be it, exactly.
+───────
+Zevran: I think I have a joke for you, my fine dwarven friend.
+Oghren: Just don't expect me to laugh.
+Zevran: So a human, an elf, and a dwarf are walking down a trail beside a stream, and they stop to take a piss.
+Oghren: All right. Things are lookin' up. Continue.
+Zevran: After, the human takes out some soap and begins washing his hands. "We humans have learned how to be clean and hygienic," he says to the others. The elf begins picking some leaves off the trees and wipes his hands with them. "We elves do as tradition has taught us and use what nature has provided." The dwarf, meanwhile, has pulled up his trousers and is already on his way down the trail. "And our ancestors," he calls back, "taught us dwarves not to piss on our hands!" (Laughs)
+Oghren: Heh. Shows you what you know about dwarves.
+───────
+Oghren: All right. I guess you aren't all that bad.
+Zevran: You just decided that, did you?
+Oghren: Well, I've watch you fight. You could be worse, I guess.
+Zevran: From you, that's practically a proposal of marriage.
+Oghren: Don't get excited or nothin'. You're not what I'm looking for in a wife.
+Zevran: Considering what happened to your last wife, I'll count myself as fortunate.
+───────
+(Playing as a female character with an Adore rating with Zevran)
+Oghren: I didn't think she'd go for an elf. / (If the Warden is an elf or a mage) Figures she'd go for an elf.
+Zevran: She who?
+Oghren: You and the Warden. We all know what's going on there.
+Zevran: Oh? Does that make you jealous, my stout little friend?
+Oghren: Me? Ha! Last thing I need is another woman in my life.
+Zevran: One wife was enough for you, was she?
+Oghren: Ha. Branka was only slightly more woman than I am. Bristle-chinned poetess.
+Zevran: Shocking that our fair Grey Warden didn't choose you instead.
+Oghren: Wonders never cease.
+───────
+(Playing as a male character romancing Zevran)
+Oghren: So... you and the Boss, huh...?
+Zevran: If by "Boss" you are referring to who I think you are, you are correct.
+Oghren: Yeah... Well.... Good luck with that.
+Zevran: Why, thank you ever so much.
+Oghren: You might wanna...you know...keep it down though.
+Zevran and Wynne Edit
+Wynne: You must know that murder is wrong, I assume.
+Zevran: I'm sorry... are you speaking to me?
+Wynne: That is why you wish to leave your Crows. A crisis of conscience.
+Zevran: Yes, that is exactly it.
+Wynne: Joke if you wish, but I have the feeling that deep down you regret the life you have lived.
+Zevran: It's true. I regret it all.
+Wynne: Must you be such a child? Are you incapable of a single, serious conversation?
+Zevran: I know. I am terrible and it makes me sad. May I rest my head in your bosom? I wish to cry.
+Wynne: You can cry well away from my bosom, I'm certain.
+Zevran: Did I tell you I was an orphan? I never knew my mother.
+Wynne: Egad. I give up.
+───────
+Wynne: Have you changed your mind yet? Are you willing to speak seriously?
+Zevran: Of your bosom? As you wish.
+Wynne: (exasperated) No, I do not wish to speak of my bosom.
+Zevran: But it is a marvelous bosom. I have seen women half your age who have not held up half so well. Perhaps it is a magical bosom?
+Wynne: Stop... talking about my bosom.
+Zevran: But I thought you wished to speak seriously?
+Wynne: I do. I thought, however foolishly, that you might be willing to speak of your past.
+Zevran: We could do that. There have been many bosoms in my past, though only few as fine as yours.
+Wynne: Enough. I am ending this conversation.
+───────
+Zevran: You have not asked my about my conscience for some time, my darling Wynne.
+Wynne: That is correct. And I am not your "darling."
+Zevran: (Sigh) So once again I am rejected, just as I am by the cruel, cruel fates. They are harsh mistresses to the elves.
+Wynne: Zevran, I am old enough to be your grandmother.
+Zevran: You say that like it's a bad thing.
+Wynne: And what would you do with me if you had me, hmm? This is a game you play, nothing more.
+Zevran: Ha, you are a cynical woman, Wynne.
+Zevran: Cynical and powerful. It drives me mad with desire.
+Wynne: ...
+Wynne: I am going to walk away now.
+───────
+Zevran: So let us pretend that I do, indeed, believe that murder is wrong.
+Wynne: (coldly) We are not having this conversation.
+Zevran: Were I to believe such a thing, what would I do with it? Feeling guilt about things one can no longer change seems to very time-consuming with little hope for actual gain.
+Wynne: But you could change what you do in the future.
+Zevran: (Sigh) What would that require, exactly? It seems to me that feeling guilty would take up a great deal of my time as it is.
+Wynne: Perhaps you could save a life, instead? One for every life you have taken.
+Zevran: That is a great many lives to save and feel guilty as well. Perhaps I could do one or the other?
+Wynne: It is not a game, Zevran. You either know right from wrong or you do not.
+Zevran: I... I am so confused. I think I may cry. May I lay my head in your bosom?
+Wynne: (Cry of frustration) No! No! You may not!
+Zevran: You are so very cruel. How is it that you do not feel guilty?
+Wynne: I feel guilty for having ever spoken to you.
+───────
+Zevran: You know, Wynne... I have a friend back in Antiva who would be very excited to meet you.
+Wynne: I'm sorry?
+Zevran: Salvail prefers women with experience and maturity. He says they have more substance, are more robust and flavorful.
+Wynne: Does he now?
+Zevran: Indeed. No need to deny it, Salvail knows a fine bird when he sees one.
+Wynne: I am not a bird!
+Zevran: There is no reason to deny yourself the pleasure of male companionship, after all, yes?
+Zevran: You might talk now, but I assure you, Salvail is a gentleman of means, and quite handsome...
+Wynne: I am going to walk away now. Calmly. Coolly. This is to save you the pain of having your brain forcibly removed through your ears.
+Zevran: Tsk. This must be a Ferelden thing, I swear.
+───────
+Zevran: You know, I have heard stories about your Circle of the Magi, my dear Wynne.
+Wynne: Is that so.
+Zevran: There is a Circle in my country, of course, but perhaps things are different here.
+Zevran: I visited the Antivan Circle on official Crow business, once. Met a beautiful young apprentice who was very eager for a taste of the outside world...
+Wynne: Please! Please, get to the point.
+Zevran: All I wonder is whether the templars guard the mages here as closely as they do in Antiva.
+Zevran: In Antiva, the templars watch the Circle like a jealous husband guarding the chastity of a wanton bride.
+Wynne: Interesting metaphor, but yes, it is not too different in Ferelden.
+Zevran: And is it also true that when the moon swells to fullness, the mages of the Circle gather at the top floor of their tower and, naked under the stars, make love to each other?
+Wynne: What? No! Maker's breath...
+Zevran: Oh. I found out recently that it was not true in Antiva and hoped that it would be in Ferelden. Alas.
+───────
+{after Wynne's condition is revealed)
+Zevran: I couldn't help hearing about your... predicament. Forgive me if I am prying...
+Wynne: Yes, you are.
+Zevran: ... but what does it feel like being possessed by a spirit?
+Wynne: Why does this interest you so?
+Zevran: I simply wish to get to know those that I travel with. Is that wrong of me?
+Wynne: No, of course it isn't. Well... let me see. It is hard to describe. It is comforting... I... I feel safe, loved.
+Zevran: Comforted, loved, yes...
+Wynne: It is like being held close, cradled... the bond is so complete that I am unable to extricate myself, nor do I wish to. Wait... why do you have that look on your face?
+Zevran: Mmm, I... I am simply imagining it. Continue, please.
+Wynne: And there is a constant warmth, that spreads outwards from the very center of my being, infusing my body with--
+Zevran: Ooh...
+Wynne: Andraste's grace, what are you thinking about now? No, I don't want to know. I feel dirty. Do not speak to me.
+Zevran and StenEdit
+Zevran: I understand that there are elves in the Qunari lands, Sten.
+Sten: There are elves everywhere.
+Zevran: Hm. Yes. Well, I've heard that the Qunari actually put the elves in charge? Over the humans? Is that true?
+Sten: Some of them.
+Zevran: Only some? Which ones are they?
+Sten: The ones who belong in charge. That is the way of the Qun.
+Zevran: How does this Qun determine who belongs in charge?
+Sten: The tamassrans evaluate everyone and place them where their talents merit.
+Zevran: But elves, in general, merit higher places than humans in Qunari society?
+Sten: Some of them.
+Zevran: Back where we began. It's like talking to a water wheel.
+───────
+Sten: Why do you call yourselves "Crows"? Crows are scavengers, not killers.
+Zevran: I heard that at one time they considered calling us the Kestrels. But you know. It didn't sing. It didn't dance.
+───────
+Zevran: You seem to have quite the disdainful attitude towards elves, my Qunari friend.
+Sten: Don't take it personally, elf. I have a disdainful attitude towards everyone.
+───────
+Zevran: "Sten", it's not a name is it?
+Sten: Do you always begin conversations this way?
+Zevran: It's your rank is it not? I've met a few Qunari in Antiva you know. Not much for conversation but some of them were quite easy on the eyes.
+Sten: Those are not Qunari.
+Zevran: No? They are what then, very large dwarves with comical accents?
+Sten: They wear the faces of Qunari but they are Tal'vashoth, fiends of Saharon. They have abandoned the Qun.
+Zevran: With titles like your own though, which makes me curious. What is your real name then?
+Sten: "Sten" is enough.
+Zevran: But it is not your name.
+Sten: It is who I am.
+───────
+Sten: I knew one of your countrymen once, elf.
+Zevran: Oh? Have you been to Antiva, then?
+Sten: No. Until I came to Ferelden, I had never left the islands. She came to Seheron twice a year with the traders who bought spices from the northern jungle. Only she among the traders would speak to the antaam. Questions about the rainforest, its depths, and the things to be seen there. We humored her. She was... an unfortunate soul.
+Zevran: Unfortunate in what way?
+Sten: She was a Crow, as you were. Sent to assassinate the kithshoks, leaders of the army of Seheron, for the Tevinter Imperium. We knew this, and pitied her.
+Zevran: I'm surprised you did not simply slay her.
+Sten: There was no need. Her questions were meant to show her the way through the jungle towards our fortifications. And so one day, she snuck into the jungle to find her target. We found the pieces of her body in a tree, where the spotted cats kept them for later. We had never told her that our kithshoks were the ones who negotiated all the trades at the port.
+Zevran: Then she was a fool. That's not very sympathetic, I'm afraid.
+Sten: It was her ignorance we pitied, not her mistake. She believe we hoarded things we cared for as her own people do. We were sorry for her, that she thought only some people were important.
+───────
+Zevran: So, your sheath is empty, then, my Qunari friend?
+Sten: My sheath?
+Zevran: You do not seem to be rising to the occasion.
+Sten: Do you spend your free time composing these?
+Zevran: Oh, no. They arise in the inspiration of the moment.
+Sten: You should write them down, then. Quietly.
+(alternate version if Oghren was recruited)
+Zevran: So, your sheath is empty, then, my Qunari friend?
+Sten: My sheath?
+Zevran: You do not seem to be rising to the occasion.
+Sten: I do not know which is worse, you or the dwarf.
+Zevran: Oh, I am, assuredly. He gets all his best lines from me.
+Zevran and LelianaEdit
+Zevran: So I imagine it has been some time for you, Leliana.
+Leliana: Some time for me? I do not know what you mean.
+Zevran: Some time since you last knocked boots, shall we say? You did just come from the cloistered life, no?
+Leliana: Of course it has been some time. There are more important things in life than "knocking boots," Zevran.
+Zevran: Oh, I'll not argue that. I simply mean that the body has urges, urges given to us by the Maker. Yours must be... considerable. After all that time.
+Leliana: That is a very personal question.
+Zevran: I mean no offense. I simply offer my services should you ever feel the need for... release.
+Leliana: Let me think about it, then. Should every man in Ferelden suddenly die, you may even have your chance.
+Zevran: A-ha! Progress!
+(alternative to the above last two lines, if Leliana is in a relationship with the Warden but not hardened)
+Leliana: That's very kind of you. Perhaps I should speak to the Grey Warden for advice on whether or not to accept your offer?
+Zevran: (Sigh) Adventure has changed you, Leliana.
+Leliana: For the better, I hope.
+(another alternative to the above lines, if Leliana is hardened)
+Leliana: That's very kind of you to be concerned for my well being, Zevran.
+Zevran: Let it never be said that I'm not here to help when the call comes.
+───────
+Zevran: So what is it, exactly, that the sisters of the Chantry do for amusement?
+Leliana: Do they not have sisters in Antiva, Zevran?
+Zevran; Naturally. Yet we are... hesitant to speak to the sisters back home. They are "atiya nagrano"... how do you say it? Pure. Not to be spoiled.
+Leliana: And you would spoil them just by speaking to them?
+Zevran: You really have no idea, do you?
+Leliana: I wasn't born in the Chantry, Zevran. Sisters... we had many ways to pass the time. Work, for instance. And prayer.
+Zevran: No time for leisure at all?
+Leliana: I was not there for idle pursuits and pleasure, Zevran. I was there to contemplate my relationship to the Maker.
+Zevran: And that's it? Sounds bloody boring.
+Leliana: What did you imagine your Antivan sisters did, exactly?
+Zevran: Well, in Antiva the chantries make much of the wine, so I suppose I assumed they... drank it?
+Leliana: I... doubt that very much.
+Zevran: And there goes one childhood dream. To think I once longed to be a brother.
+───────
+Zevran: How long were you in that cloister, my dear woman?
+Leliana: Just over two years. Why do you ask?
+Zevran: And... and all the brothers and sisters there, they had taken vows?
+Leliana: Most of them, yes.
+Zevran: For two years you had no contact with anyone but men and women who... who are promised to some uncaring god?
+Leliana: What are you getting at?
+Zevran: Didn't you... didn't you desire companionship, during those two years? Two years! The very thought makes me weak.
+Leliana: My time in the cloister was a time of contemplation. I occupied myself with thoughts of the Maker, and other... worthy pursuits.
+Leliana: But like I said, most of the brothers and sisters had taken vows. Not all of them. Some were just affirmed, like me.
+Zevran: A-ha! That is not so bad then.
+Leliana: Nothing happened, Zevran. It would not be right to engage in that behavior in a house devoted to the Maker.
+Zevran: Why? The Maker made us who we are. He made our urges; He gave us these parts. You think He made them for looks?
+───────
+Zevran: So tell me of this vision of yours, Leliana.
+Leliana: I'm not certain I wish to discuss my vision with you. You'll make fun of me.
+Zevran: No-oooo, why would I ever do such a thing?
+Leliana: See? There you go. No, I am not speaking to you of it.
+Zevran: Hmm. Yes, I suppose the Maker would not want you to spread His words. Very well, I'll accept your reproach.
+Leliana: I... why do you even wish to know?
+Zevran: Why, to make fun of you, of course.
+Leliana: You are utterly impossible.
+Zevran: On the contrary, I am often told how very easy I am, my dear.
+───────
+Zevran: So come, now. I am serious this time. Tell me of your vision.
+Leliana: Tell you? Certainly not.
+Zevran: You've told the Grey Wardens of your vision, have you not? Why them and not I?
+Leliana: You said that you intended to make fun of me. You actually said that.
+Zevran: It was funny at the time. But, come... surely you can see I am serious now. I honestly wish to know.
+Leliana: That's too bad. I honestly don't wish to tell you.
+Zevran: Then I suspect you don't even believe in your own vision.
+Leliana: What? I... that's not true! I do believe in it!
+Zevran: Then you would stand by it, no matter what the consequences.
+Leliana: Do you intend to make fun of me?
+Zevran: Well, yes... I can't help it.
+Leliana: (angrily) I... you... I simply...
+Zevran: (laughing) I know, I know. Terrible.
+───────
+Leliana: These markings of yours... they have a certain appeal. They remind me of how we used to paint our faces in Orlais.
+Zevran: Ah, but these are not just paint.
+Leliana: Do they mean anything to you? These symbols?
+Zevran: Some do... some symbols are sacred to the Crows. I am not permitted to tell you what they mean.
+Zevran: Others are there to accentuate the lines of the body... its curves and musculature. It is hard to explain with armor and clothing on.
+Leliana: But I don't recall seeing many markings on your body.
+Zevran: Ah, no, of course not. They are not in the places you have yet seen. I can show you, if you wish.
+Leliana: Err... no, I think not.
+Zevran: Is this a problem?
+Leliana: Not at all. I am merely content looking at the markings on your face, that is all.
+Zevran: Have it your way. Should you change your mind...
+Leliana: You'll be the first to know, don't you worry.
+───────
+Leliana: We have many things in common, Zevran
+Zevran: Other than our purity and beauty?
+Leliana: We both spent many years in places other than Ferelden. You are an assassin, and I, a bard.
+Zevran: Then you were called upon to kill.
+Leliana: Often. I didn't like it, but I did it anyway.
+Zevran: You didn't like it? You didn't like the thrill of the hunt?
+Leliana: I suppose... I did like that. The hunt... not the killing.
+Zevran: The killing just signals the end of the hunt. Without it, the chase goes on. You killed your marks cleanly, I hope.
+Leliana: Whenever possible.
+Zevran: Good, when the prey is caught, it deserves a good death, a clean death.
+Zevran: Perhaps you are right; we have much in common.
+───────
+(Leliana must be hardened)
+Zevran: I must say, dear woman, I rather like this change in you.
+Leliana: That's nice, but I'm not sleeping with you.
+Zevran: Oh, I can think of many other things we can do other than sleep.
+Leliana: Oh? Then let's see what's in those trousers. I like to make informed decisions, after all.
+Zevran: That's rather saucy of you, isn't it? You really have changed!
+Leliana: Yes, yes. I don't see those trousers coming down, however, do I?
+Zevran: Err...you just want me to show you? Right here?
+Leliana: Why not? Aren't you the shameless lothario you claim to be? There are rumors about you elves and I intend to see them proved untrue before I even consider a tumble.
+Zevran: On second thought, perhaps you've traveled to an awkward place where I dare not follow...
+Leliana: I thought as much.
+(alternatively, if Leliana is in a relationship with the Warden)
+Zevran On second thought, I suppose it would be rude of me to intrude on another man's domain...
+Leliana: I thought as much.
+───────
+(after Landsmeet starts)
+Leliana: Zevran, I saw you looking at that girl in town earlier. What did you think of her?
+Zevran: My dear Leliana, which girl? I saw many and I watched them all.
+Leliana: You know, the one with the... with the shoes!
+Zevran: The shoes. Yes, good reference.
+Leliana: Well, she also had blond curls worn in a long braid.
+Zevran: A braid? Oh, that one. Yes, I remember her.
+Leliana: So, what did you think? You seemed quite enthralled.
+Zevran: Well, she was... quite marvelous... except for the butter face.
+Leliana: The butter what?
+Zevran: Butter face. Everything's marvelous but her face.
+Leliana: You're a bad man.
+Zevran and Shale Edit
+Zevran: Hmm. I've a question for you, Shale. How does it feel to be a giant statue?
+Shale: What a bizarre question. How else would it feel?
+Zevran: Well, let's see... Does it hurt? Do you feel like you've been buried under a pile of rock? Or do you feel nothing at all?
+Shale: I have nothing to compare it to. How does it feel to be considered an inferior race when compared to others who are just as soft and weak as you?
+Zevran: Ah...fine?
+Shale: How very fragile it must be. One touch and its kind crumples, spilling liquid everywhere. No wonder they clad themselves in metal.
+Zevran: It takes more than just a touch, I'm sure...
+Shale: I feel very solid. And immortal. No putrid liquids to squirt out of me, oh no.
+Zevran: Hmm. Now that you mention it, I...I suddenly rather feel like a delicate mushroom...
+───────
+Zevran: I've thought about your predicament, my friend.
+Shale: It has thought of a way to lure birds out of the sky?
+Zevran: I mean your situation... being made of stone and such. I imagine it must be terrible for you to see others... together. You know.
+Shale: Together. As in standing next to one another?
+Zevran: I speak of love, my sturdy friend. And the act of love. Surely this must bring you discomfort, knowing you can never partake in such pleasures.
+Shale: That is disgusting. It was bad enough that I had to suffer the occasional pair of villagers lying in my shade, but the idea of partaking? Gah!
+Zevran: You are stoic, my friend. And brave. You do us a great honor by suffering in silence.
+Shale: I was not suffering, silently or otherwise, until now.
+Zevran: I understand.
+───────
+Zevran: So tell me, Shale... if you had the opportunity to become flesh, would you take it?
+Shale: It does seem rather preoccupied with this topic.
+Zevran: Humor me. Would you choose to live? To breathe the air and taste of flash? Or would you remain the immortal stone that you are?
+Shale: Would I also get to age and bleed and become sick and die?
+Zevran: Of course. These are the things we accept for the blessing of being what we are.
+Shale: Then no thank you. I have no need of such frailties.
+Zevran: You were once a dwarven woman. With dreams and passions and all the rest. Does that hold no sway for you?
+Shale: Why would I wish to be that woman again? She gave up her body, willingly.
+Zevran: And what of family? Of children? Life does not begin and end with yourself.
+Shale: I... have no desire to produce offspring.
+Zevran: Your form is wondrous, that's true. But while you do not suffer the lows of life, you also do not experience the highs. It is something to consider.
+Shale: It is nothing to consider. What it speaks of is impossible.
+───────
+Shale: I have noticed that the painted elf seeks the attention of the Grey Warden.
+Zevran: He certainly does.
+Shale: (Snorts) I watched many such couplings during the time I spent immobile in Honnleath. Or should I say I was forced to watch. You do know that this usually ends in reproduction. I have seen it many times, indeed.
+Zevran: Oh? That is not such a terrible thought. Creating a new life can be a great deal of fun. (Female Warden)
+Zevran: I doubt that would be a problem in this partiular instance...but who knows? The act of creation is grand fun. (Male Warden)
+Shale: So you say. I have no idea how a golem is created, but I doubt I shall be creating one anytime soon.
+Zevran: Just as well, I imagine. Any lover of yours would no doubt be quickly reduced to a puddle of bruises.
+Shale: So you see me winning the affection of another golem, do you? Most golems are slaves to whomever holds their control rod.
+Zevran: Funny, it works exactly the same way for us as well.
+(Alternate version if Shale's personal quest has been completed)
+Shale: I have noticed that the painted elf seeks the attention of the Grey Warden.
+Zevran: He certainly does.
+Shale: (Snorts) I watched many such couplings during the time I spent immobile in Honnleath. Or should I say I was forced to watch. You do know that this usually ends in reproduction. I have seen it many times, indeed.
+Zevran: Oh? That is not such a terrible thought. Creating a new life can be a great deal of fun. (Female Warden)
+Zevran: I doubt that would be a problem in this partiular instance...but who knows? The act of creation is grand fun. (Male Warden)
+Shale: Not always. When a golem is created, it involves an agony one would not believe. How fun is that, painted elf?
+Zevran: Oh, I don't know. It could be plenty of fun, if done right.
+Shale: Now the painted elf jests with me.
+Zevran: (Chuckles) You think so, do you? Have it your way.
+───────
+Shale: So here is a question for the painted elf...
+Zevran: Painted elf? Oh, that's me! I do like that.
+Shale: Am I to understand correctly that the painted elf is a "crow"?
+Zevran: Not literally, but... yes. I am a Crow.
+Shale: As in a bird.
+Zevran: Is there another sort?
+Shale: So the painted elf assaults helpless statuary with its feces?
+Zevran: If given sufficient cause, why not?
+Shale: That is outrageous! The painted elf will stay away from me. Or else.
+Zevran: (Sighs) I get a lot of that.
+───────
+Shale: I am curious. Will the painted elf answer a question?
+Zevran: Why not? I appear to have all day.
+Shale: The painted elf attacked the Grey Warden, and yet it still lives. Had the decision been mine, its skull would be so much pulp right now.
+Zevran: Oh, I don't know. Could you destroy something as pretty as I am, hmm?
+Shale: Easily. I fail to see how any measure of attractiveness would make one difficult to crush.
+Zevran: Perhaps you do not know how to look, then.
+Zevran: Take a long look at our Grey Warden, my good friend. Right there we have an object worthy of worship, no?
+Zevran: One would have to be blind not to realise how very pretty we all are and how important that is to preserve.
+Shale: Hmph. Perhaps there are definitions of "blind" I have yet to understand.
+Depending on the third party member, Zevran's line "Take a long look at our Grey Warden, my good friend. Right there we have an object worthy of worship, no?" may be replaced by others:
+Morrigan:
+
+Zevran: Look at the witch. Dark hair, heaving chest, quivering lips. How could one kill such a creature without bedding it, first?
+Morrigan: How relieved I am.
+Alistair:
+Zevran: Here, take that templar fellow. Rugged good looks, quick wit, manly shoulders. Just getting him to hop borders is a challenge worthy of the great heroes.
+Alistair: A challenge? I'd happily hop borders, given the chance. I've never even been close to leaving Ferelden!
+Leliana:
+Zevran: Take the innocent sister, for example. Certainly even you can see the naughty woman waiting to escape from that Chantry frock!
+Leliana: Mm? That's odd... I could've sworn I heard an insignificant man talking about my undergarments!
+Wynne:
+Zevran: Take a peek at that Circle mage. Must we speak of the allure of an older woman? She has lessons to teach us all, my friend.
+Wynne: You have no idea, little elf. Keep your imaginary hands to yourself.
+(There are no changes for Dog, Sten, or Oghren. Loghain untested.)
+Zevran and DogEdit
+Zevran: We have dogs in Antiva. They run in the streets and eat garbage.
+Dog: (Curious whine)
+Zevran: It's true. They're treated as vermin, mostly. Not like here in Ferelden. You're rather lucky to live here, you know.
+Dog: (Happy bark!)
+Zevran: Indeed. Here they make statues of dogs. They carve you into their thrones and put armor on you. Amazing, really.
+Dog: (Happy bark!)
+Zevran: But you still smell like a dog. In fact, you smell like several dogs.
+Dog: (Happy bark!)
+Zevran: (amused) Yes, well, ignorance is bliss, I suppose.
+───────
+Zevran: I noticed some dog drool in my pack this morning.
+Dog: (Happy bark!)
+Zevran: Not that I like to make accusations. And I even appreciate the artistry behind a good burgle when I see it, to tell the truth. But leaving all that drool as evidence? Sloppy.
+Dog: (Happy bark!)
+Zevran: I'll take that as an apology.
+Dog: (Happy bark!)
+Zevran: I'm so glad you're pleased. It really is quite something to find such enthusiasm in one's companions.
+Dog: (Ecstatic bark!)
+Zevran: I agree. Go, team. Hurrah.
+
+Zevran: So, err....is it Lord Loghain?
+Loghain: I am no longer a teyrn, nor even a knight. Address me without a title, as you would any other Grey Warden.
+Zevran: So just Loghain, then?
+Loghain: Correct. What's on your mind?
+Zevran: You know who I am, yes? I was one of the Crows you hired to kill the Grey Wardens.
+Loghain: I thought you looked familiar.
+Zevran: Well, I just wanted to report that I failed my mission, Loghain.
+Loghain: You don't say.
+Zevran: I'm terribly broken up over it.
+Loghain: Hmm. Well thank you kindly for informing me.
+
+Loghain: Here, some smoked boar saved from supper. Huh, it'll do you good.
+Dog: (Excited huffing)
+Loghain: I had a mabari once. Adalla--that was her name. We found her in the wood shed one night. She was still a pup then.
+Loghain: We never figured out where she came from. My mother called her a gift from the Maker. And she was... she really was.
+Loghain: She was beautiful; she had a lovely chestnut brown coat, and the most intelligent, understanding eyes. You would have liked her.
+Dog: (He wags his tail.)
+Loghain: We grew up together. She never left my side, not once. Ten years we had her, before she was taken away...
+Dog: (He cocks his head and looks curiously at Loghain.)
+Loghain: Another time perhaps. Finish your snack.
+───────
+Dog: (Dog sniffs the air curiously.)
+Loghain: Oh, don't give me that face. I'm betting you want the cheese in my pocket.
+Dog: (He sits and waits patiently.)
+Loghain: Very well, here you go. Don't eat it all at once. Or... do, whichever you prefer.
+Loghain: I used to keep cheese in my pocket for Adalla too. I think the rinds were her favorite part.
+Loghain: I mentioned she was taken from us, did I not? This was when Orlais still ruled, and it was an Orlesian lordling who took her.
+Loghain: He wanted to mix the blood of our noble mabari with their frail, wasp-wasted game hounds, which were bred for looks, not intelligence.
+Loghain: I tried to keep her, but there was little I could do to stop the Orlesian... I wasn't even a man then.
+Loghain: You can imagine what it was like for her, being torn away from the boy--the family she was bonded to.
+Dog: (Long, low whine)
+Loghain: It was six months before we saw her again. The Orlesian returned her--and when I say "returned," I mean "pushed her out of his wagon."
+Loghain: She was skin and bone, and still carried the scars from where their pronged collars bit into her neck. She never quite recovered.
+Loghain: She passed away after a week. It was as though she held on long enough to come home to us. I held her head in my lap, and I believe she died happy.
+Dog: (Sad whine)
+Loghain and Leliana Edit
+Loghain: So you are a Fereldan girl, who decided to live in Orlais.
+Leliana: I did not decide to live in Orlais. My mother took me there with her.
+Leliana: I know how you feel about the Orlesians, but I am not one of them.
+Loghain: You may as well be. You grew up there. Your views and values are theirs.
+Loghain: I have heard you speaking with the others. You find Ferelden unsophisticated, barely civilized.
+Leliana: No, this is not true.
+Loghain: You're painted to look like you're a Fereldan, but scratch the surface and find nothing but Orlais underneath.
+───────
+Leliana: Teyrn Loghain, you must have great stories about King Maric.
+Loghain: Oh? Are you looking for a new slant on the ones they tell in Orlais?
+Leliana: No, no! (Sigh) Does everything have to be about nationality with you? Why must every moment of life have to be a matter of politics?
+Leliana: Do you think they do not admire Maric in Orlais? Because they do. There is nothing like a dashing rebel prince to capture the imagination, you know.
+Loghain: Even when he rebels against you?
+Leliana: Especially then. It makes him roguish. Much more romantic. And if he must face overwhelming numbers of Chevaliers with only a few untrained farmers? Then he's even more valiant.
+Loghain: Leliana, this runs counter to all sense and accountability.
+Leliana: People aren't sensible creatures all the time. And stories are accountable to no one. Have you never loved a tall tale, simply because it made your heart race?
+Loghain: Hmph.
+Leliana: You can "Hmph," all you like. You know I'm right.
+Loghain and Wynne Edit
+Loghain: You look as though you want to say something, Wynne. What's stopping you? You've never held your tongue for politeness's sake before.
+Wynne: No, it's nothing.
+Loghain: Why should that matter? There have been plenty of occasions in the past when you've had nothing to say and said it anyway. Loudly, in fact.
+Wynne: Loghain, you're not making this any easier.
+Loghain: My apologies. I should certainly be complaining that you've no vitriol for me.
+Wynne: I...would rather have something scathing to say to you. But I do not. I...I feel I should admit that I have been mistaken about you.
+Loghain: As it is a rather brave thing to admit a mistake, I will only say: Thank you.
+Wynne: Yes. Well, it won't happen again.
+───────
+Wynne: What are you playing at?
+Loghain: I beg your pardon?
+Wynne: He/She's young, but he's/she's no fool. He/She hasn't forgotten what you've done.
+Loghain: Madam, I have no idea what you're trying to suggest. Speak plainly. If you wish to accuse me of something, do it.
+Wynne: Oh, I have so many things to accuse you of, Loghain Mac Tir, that I hardly know where to begin.
+Wynne: But I'll save them for another time, For the moment, know that I am watching you. Don't think a few friendly words for the Warden will put everyone off their guard.
+Loghain: If watching me amuses you, madam, feel free. Now, if you don't mind, I have things to attend to.
+───────
+Loghain: You can stop scowling at me, madam.
+Wynne: Did I need your permission? I see.
+Loghain: Fine. I confess: It was entirely my idea that Uldred consort with demons. I had a dastardly scheme in which the utter destruction of Ferelden's best weapon would benefit me, personally.
+Loghain: Are you satisfied now?
+Wynne: Do you think your deal with Uldred was where you earned my contempt? I was at Ostagar. I witnessed Cailan's murder.
+Loghain: Such loyalty.
+Wynne: What is that supposed to mean?
+Loghain: Did you try to save him, then? My apologies.
+Wynne: I was fortunate to escape with my life!
+Loghain: So you didn't rush to your king's rescue? I see. Then both of us left the boy to die.
+Wynne: I was no general at the head of an army! I could never have reached him!
+Loghain: And I had no magic that could break those darkspawn ranks. But perhaps you think I ought to have tried, regardless. No doubt, the lives of mere soldiers are cheap in the eyes of the Circle.
+Wynne: And what of all the soldiers who died with their king? Their lives were worth nothing to you.
+Loghain: You think so, do you? I knew their names, mage, and where they came from. I knew their families.
+Loghain: I do not know how you mages determine the value of things, but they were my men. I know exactly how much I lost that day.
+───────
+Loghain: I've seen you eyeing me, Wynne. Trying to watch for the moment when I turn on you?
+Wynne: I thought you'd be more likely to attack me in my sleep actually. Isn't that what you do? Strike when your quarry cannot defend themselves?
+Loghain: You've made your point.
+Wynne: I do not trust you, Loghain.
+Loghain: I have become a Grey Warden. I have made promises. If I break them, my life is forfeit.
+Wynne: That does not give me much reassurance.
+Loghain: That's not something I can change.
+Wynne: I will remain wary of you, Loghain, for a very very long time to come.
+───────
+(during the Return to Ostagar DLC upon first returning to Ostagar)
+Loghain: Let me know when you're done glaring at me, madam. My memories of this place are no fonder than your own.
+Wynne: No? I remember good friends dying in this place. And a man whom I respected as my king.
+Loghain: All I remember is a fool's death and a hard choice. I'd make the same again.
+Wynne: Even knowing all that you know now, Loghain Mac Tir?
+Loghain: Even so. Come, madam, our bitterness is better spent against the darkspawn than each other.
+Wynne: Yes, Maker forbid that I might waste a whole life's bitterness just on you.
+───────
+(during the Return to Ostagar DLC after obtaining the first of Cailan's items)
+Wynne: How cold does the King's metal feel in your hands, Loghain?
+Loghain: I feel nothing, old woman, and your constant prodding for regrets will gain you little.
+Wynne: And what if it had been your daughter in his place? Would you have regrets then?
+Loghain: Had I raised her to be such a fool as that, I'd have been in no better position to save her! What you forget is that your king was beyond saving. The darkspawn would either have had him or have had us all. Do you really believe we would have been so much better off had I chosen otherwise?
+Wynne: It is my belief that a man who ties his own hands behind his back should not cry foul that there is no one left to defend his king!
+───────
+(during the Return to Ostagar DLC after finding the Secret Correspondence)
+Loghain: The cheating bastard!
+Wynne: Watch your mouth, Loghain Mac Tir, unless you have forgotten the company you now keep!
+Loghain: It's not my company I worry about, madam, but my former son-in-law's! Do you see the familiar tone with which the empress writes him, as if my daughter were not already his wife?
+Wynne: Cailan loved Anora with every ounce of his heart. It was plain for all to see. The only thing that ever stood between them was you.
+Loghain: Are you blind, old woman? The plot is plain as day within this letter! Love or no, Cailan was going to cast my daughter aside and wed himself to that bitch, Celene. In a single vow, Orlais would claim all that they could never win by war! And what would Ferelden gain? Our fool of a king could strut about and call himself an emperor.
+Wynne: And what of peace? Would it not bring us that, at least?
+Loghain: Peace? I would have thought your age might have granted more wisdom, madam. Peace just means fighting someone else's enemies in someone else's war for someone else's reasons.
+If Dog is with them, when Loghain calls Celene a bitch, Dog will growl before Loghain continues the rest of what he is saying.
+───────
+(during the Return to Ostagar DLC after recovering the last piece of Cailan's armor)
+Wynne: You've fallen silent, Loghain.
+Loghain: And I wish you would do the same, madam. It has been a long and wearying day.
+Wynne: On that at least the two of us can agree.
+Loghain: We are done here. Let's go home and not speak of this again.
+Loghain and MorriganEdit
+Morrigan: You are much taller than I expected.
+Loghain: Am I? You expected me to be short?
+Morrigan: Well, you are also younger than I imagined. Great generals are supposed to be old men who sit far from the battlefield.
+Loghain: I have never been, nor hope to be, a great general, then.
+Morrigan: No? I suppose that explains your loss at Ostagar, then.
+───────
+Loghain: I see you staring owlishly at me, young lady. I suppose you disapprove of my being here as well.
+Morrigan: No, indeed. You are a vast improvement over Alistair.
+Morrigan: That, however, is not saying a great deal.
+Loghain and OghrenEdit
+Oghren: So what, now we're supposed to be best friends? Bosom buddies? Sit around the campfire and sing together?
+Loghain: Somehow, I have no desire ever to hear you sing, Dwarf.
+Oghren: Just don't start thinking that you belong here.
+Loghain: Oh, I'm in no danger of that, I promise you.
+Loghain and ShaleEdit
+Loghain: I saw a golem like you once. Back when I was fighting in the army with Maric, many years ago.
+Shale: Good for it.
+Loghain: Could you be the same creature? You were more servile, then. The pet of a mage in Arl Rendorn's employ.
+Shale: Do I strike it as servile?
+Loghain: Not at all. Perhaps I am mistaken. I would no doubt remember such sarcasm.
+Shale: Then we're in agreement.
+───────
+Shale: It could have won its battle. It knows this, surely?
+Loghain: I am to be subjected to the golem's ruminations, now? Charming.
+Shale: It said that it did what it had to do in order to protect its nation, but that is not true, is it?
+Loghain: I have no idea what you're talking about, golem.
+Shale: It could have slain the woman, Anora. Then it would have been made king long before any challenge could have been made.
+Loghain: You are speaking of my daughter, if you are not aware.
+Shale: I am aware. It said, however, that it would do anything that it had to. But this was not true.
+Loghain: I was unwilling to kill my own daughter. Yes, that is true. You think me weak for it?
+Shale: I am uncertain. Had it known then what it knows now, would its decision have been different?
+Loghain: (Sigh) No. No, I would not have killed her. Even had I known.
+Shale: Then... I am content.
+Loghain and StenEdit
+Loghain: Tell me, what did the Qunari come to Thedas for?
+Sten: You know the answer.
+Loghain: Do I?
+Sten: Yes. Why did humans come here?
+Loghain: Humans have always been here.
+Sten: Have they? The elves tell another story.
+Loghain: That happened so long ago, it can reasonably be said that humanity has been in Thedas forever.
+Sten: You have a strangely short view of eternity, then.
+───────
+Sten: I didn't think it was a human practice, making a comrade of a defeated foe.
+Loghain: It isn't. These are... unusual circumstances.
+Sten: It is... encouraging to see.
+Loghain: Encouraging? How so?
+Sten: Perhaps your people are becoming more like Qunari. You could do worse.
+Loghain: Do you mean to say that Qunari do make comrades of their beaten opponent?
+Sten: Qunari do not waste resources. And few are more valuable than lives.
+Loghain: How exactly do you go about making your enemies work for you?
+Sten: We're a persuasive people, if you couldn't tell.
+───────
+Sten: Why did you leave them?
+Loghain: I beg your pardon?
+Sten: The men at Ostagar. They were your brothers-in-arms, were they not?
+Loghain: They were.
+Sten: Your place was on the field.
+Loghain: Do Qunari soldiers never retreat, then?
+Sten: We never need to.
+Loghain: We do.
+
+Wynne: Alistair, what's this?
+Alistair: It's a sock?
+Wynne: It's a filthy sock. How did it find its way to my bedroll?
+Alistair: Maybe it likes you? Socks are sneaky like that. Anyway, it's not mine.
+Wynne: It has your name stitched on it.
+Alistair: Oh. Ha, ha. Ha. Part of templar training, back at the Chantry. The men were... always getting their socks mixed up. Anyway, uh, sorry about that. I'll take it from you right now. One of my socks is feeling a little damp anyway. A change would be nice.
+Wynne: You're going to put it on? It's filthy!
+Alistair: And dry! We're not exactly traveling in the lap of luxury here.
+Wynne: What hideous habits you've picked up.
+───────
+Alistair: Wynne?
+Wynne: Yes, Alistair?
+Alistair: My shirt has a hole in it.
+Wynne: I see. And?
+Alistair: Can you mend it? When we get back to camp?
+Wynne: Can't you mend your own clothes? Why do I have to do it?
+Alistair: Sometimes I pick up too much fabric and it ends up all puckered and the entire garment hangs wrong afterward. And you're... you know, grandmotherly. Grandmothers do that sort of thing, don't they? Darning socks and whatnot. You don't want me to have to fight darkspawn in a shirt with a hole, do you? It might get bigger. I might catch cold.
+Wynne: Oh, all right. I'll mend your shirt the next time we set up camp.
+Alistair: Ooh! And while you're at it, the elbows kind of need patching too...
+Wynne: Careful, young man, or puckered garments may be the least of your problems.
+───────
+Alistair: Ow.
+Wynne: What? Stop fussing with it. You'll make it worse.
+Alistair: It itches.
+Wynne: Yes, it's healing. Don't touch it.
+Alistair: But it's distracting. Can I rub it through the bandage? That's not really scratching.
+Wynne: Alistair, if you open that wound up, I'm not going to heal it again. You can just treat it yourself. And if it festers, weeping bloody pus, and burns like the flames of Andraste's pyre, don't come to me. All I'm going to say is: "Alistair, didn't I tell you not to touch it?"
+Alistair: It won't really fester, will it?
+Wynne: Why don't you try scratching and see?
+Alistair: I... uh, I guess it doesn't itch so much now.
+───────
+Alistair: So, you... know that I am a Templar, right?
+Wynne: I believe what I heard was that you were not, in fact, a Templar. You were trained as one before you became a Grey Warden.
+Alistair: That's right. But I still have... all the abilities of one, of course. That doesn't... make you nervous?
+Wynne: Should it? I am no apostate. Perhaps you should be directing this question at Morrigan.
+Alistair: She claims not to be afraid of me... or anything, really. But you've had more experience with the Templars than her. I know how mages can sometimes...
+Wynne: The Templars serve a function, and a necessary one. If what has happened at the tower proves anything, it is that we mages can be dangerous... even to ourselves.
+Alistair: That's... one way of looking at it.
+Wynne: And regardless, you seem like a decent enough young man. If you decide to slaughter me out of hand, I'm sure you would at least inform me first, no?
+Alistair: Oh, sure... count on it.
+───────
+Alistair: So tell me, you have any children? Grandchildren? I don't know, great grandchildren?
+Wynne: What would make you think I have any children at all? You have to know I've spent most of my life in the Circle of Magi.
+Alistair: You just seem like the grandmotherly type to me, I don't know.
+Wynne: I suppose I'll take that as a comment on my demeanor and not my age.
+Alistair: Mages aren't forbidden to marry or anything, are they? It's not such an outlandish question.
+Wynne: Isn't it? What sort of man would marry a mage, do you think?
+Alistair: How about another mage? There are just as many men as there are women within the Circle, as I recall.
+Wynne: That sort of union is... not encouraged. Although that does not stop us from seeking out each other's... company from time to time.
+Alistair: I... all right, suddenly you don't seem quite so grandmotherly to me anymore.
+Wynne: Good. I would hope not.
+───────
+(if the Warden is not a mage)
+Alistair: You know, of all the mages I've met you have to be the first one I can honestly say I've really liked.
+Wynne: Why thank you, Alistair. I am quite touched. I like you too, Alistair. I imagine my son would have grown up to be someone like you.
+Alistair: Your son? I thought you said you were never married?
+Wynne: That's true. I never have been.
+Alistair: I... oh. Then this wasn't... before you joined the Circle?
+Wynne: I joined the Circle at the age of nine. So, no. Do you still like me?
+Alistair: Err... yes? Why wouldn't I?
+Wynne: Good. It appears you got away from the Chantry just in time.
+───────
+Alistair: So you... mentioned you had a son? What happened to him?
+Wynne: I honestly don't know, Alistair. He was... taken from me. Such births are seldom, as there are ways to prevent it, but it does happen. And any child born to a Circle mage belongs to the Chantry.
+Alistair: I... didn't know. I'm sorry.
+Wynne: It's all right. It was a long time ago. A very long time ago.
+Alistair: Couldn't you do something about it?
+Wynne: Do what? I was weak from the birthing process and there were... no, there was nothing I could do.
+Alistair: Do you think about him?
+Wynne: All the time.
+───────
+(if the Warden is in a romance with Alistair)
+Alistair: Why are you smiling like that? You look suspiciously like the cat who swallowed the pigeon.
+Wynne: Canary.
+Alistair: What?
+Wynne: I look like the cat that swallowed the canary.
+Alistair: I once had a very large cat, but that's not my point. My point is why are you smirking?
+Wynne: (Chuckles) You were watching her. With great interest, I might add. In fact, I believe you were...enraptured.
+Alistair: She's our leader. I look to her for guidance.
+Wynne: Oh, I see. So what guidance did you find in those swaying hips hmm?
+Alistair: No no no, I wasn't looking at...you know her...hind-quarters
+Wynne: Certainly.
+Alistair: I gazed...glanced, in that direction, maybe, but I wasn't staring...or really seeing anything even.
+Wynne: Of course.
+Alistair: I hate you. You're a bad person.
+───────
+(if the Warden is in a romance with Alistair)
+Wynne: Alistair, may I have a word?
+Alistair: Of course - anything for my favouritest mage ever. ("second favourite mage" if Warden is a mage)
+Wynne: It seems you and our fearless leader are inseparable these days. Joined at the hip, almost.
+Alistair: That's a bit of an overstatement, don't you think?
+Wynne: Well then, now that you're in an intimate relationship, you should learn about where babies really come from.
+Alistair: Pardon?
+Wynne: I know the Chantry says you dream about your babies and the good Fade spirits take them out of the Fade and leave them in your arms...but that's not true. Actually what happens is that when a girl and a boy really love each other --
+Alistair: Andraste's flaming sword! I know where babies come from!
+Wynne: Do you? Do you really?
+Alistair: I certainly hope so.
+Wynne: Oh, all right then. Aww, look, you're all red and mottled. How cute.
+Alistair: You did that on purpose!
+Wynne: Now, now Alistair, why would I do such a thing?
+Alistair: Because you're wicked. That frail old lady act? I'm so not fooled. I'm on to you now.
+───────
+(if the Warden is in a romance with Alistair)
+Alistair: Soooo, what would you do if someone told you that they loved you?
+Wynne: Check their eyesight first, perhaps. Is this someone I should know about?
+Alistair: No. I mean, pretend you're a woman...
+Wynne: I am a woman, Alistair. That shouldn't be too hard, but I'll give it a try.
+Alistair: Ahhh, that's... not what I meant. Just... pretend you're another woman. And someone told you that they loved you. How would you react?
+Wynne: Well, that depends. Does this someone just blurt it out? Do I love them back? I need context.
+Alistair: I... I don't know if you love them back. Maybe you do. You've... spent a lot of time with this person.
+Wynne: Perhaps you need to wait for the right moment? You could get her alone in camp, give her a gift perhaps.
+Alistair: Oh, I wasn't talking about me... just... forget I said anything.
+Wynne: (Chuckles) As you wish.
+───────
+(if the Warden is in a romance with Alistair)
+Wynne: I think you make her very happy.
+Alistair: Not this again. I'm ready this time.
+Wynne: I just wanted to say that this was something good, for both of you. Being a Grey Warden isn't easy. I'm glad you found each other.
+Alistair: Oh, yes, I bet you are, indeed.
+Wynne: Cherish this. It may not last.
+Alistair: And?
+Wynne: That's all I had to say.
+Alistair: Really? No pinching my cheeks? No making me blush?
+Wynne: Of course not. I like you, Alistair. You deserve to be happy.
+Alistair: Not even pinching my cheeks a little?
+───────
+(if the Warden is in a romance with Morrigan)
+Alistair: So you know about him and Morrigan, right? You've heard?
+Wynne: I think I know what are you talking about, yes.
+Alistair: And you agree with it? You don't think that it's... dangerous?
+Wynne: Dangerous for whom? Her? Or him?
+Alistair: Anyone. She's maleficar... and rotten to the core. How can he even... this can't be a good idea. She can't be a good influence on him.
+Wynne: I will admit that the thought did cross my mind, several times. But look at it another way...
+Wynne: Perhaps he will be a good influence on her.
+Alistair: You know, you are just too understanding about stuff like this. Can't you be more judgmental? I'm trying to rant, here.
+Wynne: Oh, I'm sorry. You go ahead and rant, dear, and I'll just nod my head if you like.
+───────
+(after Alistair's heritage is revealed)
+Wynne: Did you speak often with Cailan?
+Alistair: You're asking me if I have a relationship with my "brother", aren't you?
+Wynne: Yes. I wonder what he thought of you.
+Alistair: I don't think he cared much about my existence. I didn't mean anything to him. Anyway, to answer your original question, no, we never spoke. Well, maybe once. Maric and Cailan had come to Redcliffe to visit the Arl. I was very young then. We were introduced. I believe I said, "Greetings, your Highness." He said, "Ooh! Swords!" and ran off to the armory. So, yes, that was the extent of our relationship. We drifted apart after that. Very sad.
+───────
+(in the Return to Ostagar DLC, shortly after arriving in the area)
+Alistair: Something about returning here makes me feel old, Wynne.
+Wynne: And what exactly are you implying, Alistair?
+Alistair: What? ...What? N-Nothing! No, I just... thought...
+Wynne: You just thought I might be an expert at feeling old and could share some sage advice?
+Alistair: I... I just mean that I was a different person then. I believed him, you know. That it would be a glorious battle, that we would win...
+Wynne: I did too. We were all a little bit younger the last time we were here.
+Alistair: Well, not you. You've always been old.
+Wynne: With lip like that, son, you'll be lucky if you live to be half my age.
+───────
+(during the Return to Ostagar DLC after obtaining the first of Cailan's items)
+Wynne: What's the matter, Alistair?
+Alistair: I don't know. It just feels wrong to find this here, pawed over by darkspawn and thick with their rot. It was his.
+Wynne: I know, I feel it too. But he is not the first king to ever fall in battle or even the first to fall to the darkspawn.
+Alistair: Yes but this wound cuts deeper.
+Wynne: And it will bleed longer. But we must keep moving. No doubt the darkspawn are eager to give us plenty more reasons to mourn.
+───────
+(in the Return to Ostagar DLC after obtaining the "last" of Cailan's items)
+Alistair: There it is, the last of them.
+Wynne: (sigh) It has been a long day. By the lines around your eyes I dare say you look as old as I.
+Alistair: And if I may say so, milady, you appear to be getting younger by the day.
+Wynne: Be careful who you flirt with, young man. (chuckle) When you wake up beside me tomorrow morning I'll be back to reminding you of your grandmother.
+Alistair: Beside you?
+Wynne: You heard what I said. It would not be the first time I woke to a younger man in my bed.
+Alistair: Are all women this evil and conniving when they grow old?
+Wynne: Just me, my dear. (chuckle) Just me.
+Wynne and MorriganEdit
+Wynne: You have a barbed tongue, Morrigan. Tell me, why do you speak to others this way?
+Morrigan: I owe you no explanation. There is no writing on my forehead that says "Please, guide me!"
+Wynne: You are traveling with these people. It behooves you to be civil.
+Morrigan: You are too transparent, old woman. Do not bring up our companions, when all you wish is for me to be civil to you. I am not one of your Circle apprentices, to hang on your every word. I am not Alistair, who sees in you a surrogate mother.
+Wynne: No, it is obvious you are nothing like Alistair.
+Morrigan: Take your lectures elsewhere. They mean nothing to me.
+───────
+Wynne: It must have been very difficult for you and your mother, Morrigan, to live always hiding from the Chantry and its hunters.
+Morrigan: Your pitying tone is as unwelcome as it is unnecessary, old woman. There was nothing difficult about our lives in the slightest.
+Wynne: But surely you must have drawn notice from time to time. No matter how powerful you claim to be, you would not wish the full attention of the Chantry.
+Morrigan: Hunters did come into the Wilds from time to time. They did not leave.
+Wynne: And the interest of the Chantry was never aroused? I find that difficult to believe.
+Morrigan: I imagine you find many things difficult to believe. Your own preference for the leash you wear, for instance.
+Wynne: There are good reasons for the world to fear mages, even despite our best intentions.
+Morrigan: Your best intentions, perhaps. Their fear concerns me not at all.
+───────
+Wynne: What you said before, Morrigan... about the Circle of Magi being a leash... do you truly believe that?
+Morrigan: Only a fool would think otherwise.
+Wynne: You would prefer a world where young mages were slain by the ignorant for their talent? Taught to fear their abilities?
+Morrigan: That is what the Circle teaches. You fear your abilities, instead of reveling in them.
+Wynne: Believing ourselves to be superior over other men is what led to the Imperium... and the darkspawn.
+Morrigan: (scoffs) I cannot believe you give credence to such drivel.
+Wynne: Those who do not heed the lessons of history are doomed to repeat them.
+Morrigan: Then you need look no further than the elves for an example of what occurs when you allow others to hold your leash.
+───────
+Wynne: I have been thinking about what you said, Morrigan. About the Circle.
+Morrigan: Allow me to leap to the supposition that you disagree.
+Wynne: Let us say that the Circle did not exist. What sort of a world would you envision for mages? Would you advocate a return to the days of the Imperium?
+Morrigan: I advocate nothing. Nature dictates that the strong survive, if they have the will.
+Wynne: So you prefer a life of hardship and fear, so long as you believe you aren't tethered and free to do as you wish.
+Morrigan: That is so.
+Wynne: But are you not here because your mother wished you to be?
+Morrigan: I could leave if I desired to.
+Wynne: Of course. It simply strikes me as odd that one who believes in such freedom has never spent any time alone and unprotected.
+───────
+Morrigan: I have spent time alone and unprotected.
+Wynne: I'm sorry, what?
+Morrigan: You said earlier that I had spent no time alone - I have. I left the wilds more than once when I was young, to seek more of the world of men.
+Wynne: Did you return to the Wilds on your own? Or did your mother seek you out?
+Morrigan: She would never leave the Wilds. I returned on my own. The world of man... is dangerous.
+Wynne: And frightening, I imagine. Especially for someone ill-prepared for it.
+Morrigan: But the Circle is no place of safety. 'Tis a place of subjugation.
+Wynne: Is it? It is by no means perfect, I agree, but consider the alternative. At least other mages can understand our struggle. We can help each other.
+Morrigan: It is... something to consider, I suppose.
+Wynne: Well that's certainly something.
+───────
+(if the Warden is in a romance with Morrigan)
+Morrigan: You do not approve of me, do you?
+Wynne: You have to ask? I didn't realize I was being subtle.
+Morrigan: Ah, the old cat still has her claws, I see. And you also do not approve of my involvement with our stalwart Grey Warden.
+Wynne: You are dangerous, Morrigan. Dangerous, cunning and thoroughly deceitful. But you are beautiful, and he is young. It's a pity he doesn't know any better.
+Morrigan: Why, Wynne, I do believe that is the first time you have ever offered a compliment. Thank you.
+Wynne: Only you would take that as a compliment.
+Morrigan: Listen, old woman. what happens between myself and him is not your concern. You can approve or not approve as you wish, but this is one thing you cannot influence and mould to your liking.
+Wynne: So you say. I do hope that one day soon you will discover that neither is he.
+Morrigan: You mistake my intent, old cat. And you are a fool.
+Wynne: Am I? Well, let's hope so.
+───────
+(after Wynne's condition is revealed)
+Morrigan: You must be vastly relieved, Wynne.
+Wynne: Relieved? I do not understand what you mean.
+Morrigan: Most your age would spend much of their time preoccupied, wondering when they might perish. Yet you already know.
+Wynne: Eavesdropping is not considered very polite, dear.
+Morrigan: A fortunate thing, then, that I do not consider myself bound by such rules.
+Wynne: In response to your question, I know only that I died once. I do not know how much time I have left… only that it is very little.
+Morrigan: That is not so very different from before, surely. You are an old woman.
+Wynne: One who keenly appreciates that our time in this world should be spent doing what is important.
+Morrigan: I have always lived by such a philosophy.
+Wynne: How reassuring.
+───────
+(after Wynne's condition is revealed)
+Morrigan: Have you given thought to, perhaps, prolonging your life by forcing another spirit into your service?
+Wynne: Of course not.
+Morrigan: I would. Of course I am still young, beautiful, and my life is my own - while you are bound to that Circle. Hmm. I wonder why I asked. It would be a silly thing, prolonging your life. A waste.
+Wynne: Think what you will, Morrigan. When the end comes, I will go gladly to my rest, proud of my achievements. While you… you will see how empty your life was. You will realize that because you never had love for others, you never received love in return. And you will die alone and unmourned.
+Morrigan: You speak of meaningless things. I need no one to mourn me, old woman.
+Wynne: More’s the pity.
+Wynne and OghrenEdit
+Oghren: Aye, sure. Why not?
+Wynne: Pardon?
+Oghren: Oh, I'd give you a roll. Why not?
+Wynne: A "roll?"
+Oghren: Aye. Any time. Preferably in the dark.
+Wynne: I suppose I should be flattered.
+Oghren: I'm not sure I have the equipment for that, but sure, whatever gets you working.
+───────
+Oghren: Ah, Wynne... Care to partake of Oghren's fine homebrew? It's the drink of the gods.
+Wynne: Hm... ale, is it? And I hope it's brewed hygienically?
+Oghren: Of course! I may not know clean from a beggar's ass when it comes to most things, but I don't mess around with my ale.
+Wynne: Very well, let's have a taste.
+Oghren: Well? Well? What do you think?
+Wynne: Very nice.
+Oghren: You like it? well, I never...
+Wynne: Attractive amber color... Nutty flavor, slightly sweet, just a hint of toastiness.... There's some spice to it... I'm finding hard to place...
+Oghren: Yes? Yes?
+Wynne: Is it... cloves?
+Oghren: Cloves! By the stone, you're a lady after my own heart. If I weren't buckled into this armor, I'd take you 'round the corner and... well, you know.
+Wynne: Give me more ale?
+───────
+Oghren: So, Wynne... how do you know so bleeding much about ale? Have some tawdry tale of misspent youth to tell?
+Wynne: Nothing quite so interesting, my friend. The Tranquil mages of the Circle just happen to be alchemical miracle-workers, and they brew more than just potions. There was always a pitcher or two of fine ale at our supper table.
+Oghren: Well, bless my britches... Maybe when all this is done I'll chat up one or two of them quiet mages.
+Wynne: Uh, Tranquil.
+Oghren: Tranquil, quiet, insipid... same difference.
+───────
+Oghren: Ugh. Got something in my... Sod it.
+Wynne: What are you... Never mind, I don't want to know.
+Oghren: That's right. Keep your nose up. You know, just because we don't all live in some tower in the clouds doesn't mean we're worthless.
+Wynne: I didn't...
+Oghren: And furthermore, I don't think I appreciate the way you looked at me the other night.
+Wynne: The way I... what?
+Oghren: Oh, you remember. Those longing eyes, hungry for a bit of a tussle...
+Wynne: I never looked at you, dwarf. Definitely not in that way.
+Oghren: Oh, you're right. Must have been the dog.
+───────
+Wynne: Here, I bought you a towel, a bar of soap and a razor while we were at the market.
+Oghren: Aye? What is this for?
+Wynne: You wash with it.
+Oghren: I know what soap is, woman! What is this flimsy slip of metal?
+Wynne: It's a razor. you shave with it.
+Oghren: Shave! Any warrior worth his salt keeps his beard! That's what I keep telling Alistair.
+Wynne: It's matted! It has stale food stuck in it!
+Oghren: Oh, so that's where that bit of herring got to. Anyway, it keeps my face warm. It doesn't have to be pretty. 'Sides, the ladies love it. Tickles them in all the right places if I wag my chin like this.
+Wynne: Augh! Just take it. Take it!
+───────
+Oghren: You could show me a little appreciation, you know.
+Wynne: Appreciation? For what?
+Oghren: I saved your ass a while back! When that thing was... you don't even remember.
+Wynne: I'm sorry, I--
+Oghren: No, that's fine. Next time I'll just let it get you, that's all.
+───────
+Oghren: So. I was thinking...
+Wynne: Listen, dwarf. I am not interested in your innuendos, your propositions, or your bodily emanations.
+Oghren: But I--
+Wynne: Quiet!
+Oghren: I just wanted--
+Wynne: No! Keep it to yourself! I'm serious!
+Oghren: Eh, fine.
+Wynne: Good! Thank you!
+Oghren: Whatever.
+───────
+Wynne: Why do you occasionally refer to Alistair as a "little pike-twirler?"
+Oghren: Why? Has the little pike-twirler taken offence?
+Wynne: It's just a curious description.
+Oghren: Curious? (Snorts) Bah, it's entirely true. What, you haven't seen him twirling his pike? Goes at it when he thinks no one's watching. Knocks about in the trees like there's no tomorrow. Caught him just the other day. Blushed all the way down to his navel, then couldn't find his shirt. I swear he's going to hurt himself one of these days, the way he works that thing.
+Wynne: I don't want to hear this anymore, do I?
+Oghren: I keep telling him, pikes are for sticking things at long range, aye? Horses and such. Not for twirling like a sissy-girl.
+Wynne: Wait, you're talking about an actual pike? Like a spear?
+Oghren: Obviously. What else would I be talking about?
+Wynne: I can't imagine.
+───────
+(if the Warden has romanced both Leliana and Morrigan)
+Oghren: So, you're not tossing yourself at the boss?
+Wynne: Excuse me?
+Oghren: It seems like every other woman in the band is tossing herself at the boss feet first. It's like a sodding noble's birthday party here.
+Wynne: Oh, no. The Grey Warden is a little young for me. Both of them are.
+Oghren: Need someone with a little more experience, I guess, right?
+Wynne: I suppose.
+Oghren: Well, you know where to find me.
+Wynne and LelianaEdit
+Leliana: You are not religious, yes? You do not believe?
+Wynne: I do, to some extent. It does not govern my life, however. Why do you ask?
+Leliana: Oh, nothing. You are just a very good person, and it shows, and I thought at first you were religious, like some of the revered mothers. But no, I thought about it and I realized that you are not.
+Wynne: I do what I do because I enjoy it; because I enjoy teaching others, helping them. I do not seek recognition for my works. I do not seek the approval of my peers, nor the approval of a distant god.
+Leliana: That is admirable, doing good for its own sake. Some I knew were not like that. They bragged about what they did, trying to impress others. "Oh, Lady Adele, you fed and clothed twenty orphans, how noble!" "No, no, it is nothing, Lady Clarabelle. You treated forty lepers, and gave them massages!" Like a competition, with false modesty. Sickening.
+Wynne: Er, did Lady Clarabelle really give forty lepers massages?
+Leliana: Who knows. Lady Clarabelle had strange tastes. I wouldn't be surprised if she did that, and more.
+───────
+Leliana: You remind me of Lady Cecilie.
+Wynne: Who?
+Leliana: She was an Orlesian lady. My mother served her until she died and Lady Cecilie let me stay, instead of turning me out on the street.
+Leliana: You are like her in some ways. You have the same poise, the same air of nobility.
+Wynne: Oh, child, I am hardly noble.
+Leliana: I learned that nobility isn't just something you are born with. I have met nobles who were petty and mean—complete degenerates.
+Leliana: Then there are people with a certain dignity and grace. It draws you to them, no matter who you are, or who they are.
+Leliana: I think that the lowest peasant can have the most noble spirit and it will always shine through. It is this nobility of spirit that you share with Cecilie.
+Wynne: Why... thank you, Leliana. It is very kind of you to say that.
+───────
+Wynne: Do you miss the cloister much? I heard you were quite happy there.
+Leliana: Yes, I was, generally. It was peaceful and it gave me a new start. No one knew who I was...But sometimes I am glad I am away and back on the road. There were bothersome things about the place... well, bothersome people. Some of the brothers and sisters would talk to you like... like the Chant they spoke was more pleasing to the Maker. Oh, I hated the way they talked down at me. So sometimes I forget the words to the Chant, or say them wrong, but so what? The Maker looks into your heart, no? So it doesn't matter what your lips say as long as your heart is true.
+Wynne: I think you're missing the point, my dear. The Chantry believes the Chant of Light should be spread around the world. You cannot spread it, if those that are speaking the Chant are speaking it incorrectly.
+Leliana: But I came to the Maker before I had even heard all of the Chants. The Maker speaks to people; they just don't know how to listen. It is all a power game, I think. If they convince others they know more, then they must be respected.
+Wynne: Ah, child, it is precisely this kind of talk that made them wary of you. Opinions that differ from your own are always threatening.
+───────
+Wynne: It is sometimes so hard to believe that you have been through so much, at such a young age.
+Leliana: I think I look younger than I am.
+Wynne: Yes... yes, that is possible. When I was your age I was just about ready to take on my first apprentice.
+Wynne: In hindsight, perhaps I should have waited a few more years. I was arrogant, my confidence bolstered by my youth.
+Leliana: It is so hard to imagine, seeing you now.
+Wynne: Oh, I've had some two decades or so to grow mellow. Believe me, back then I was quite... prickly.
+Leliana: So you are like a fine wine, yes? Losing the raw edges over time?
+Wynne: I suppose there is some truth to that analogy but dear Maker, I do hate being compared to wine. Or cheese.
+Wynne: Especially cheese.
+───────
+Leliana: It must be a wonderful thing, to be able to weave spells.
+Wynne: Wonderful? To you, perhaps. Most do not feel the same way
+Leliana: Oh, what do they know? They are just jealous. The Maker gives you magic; you must use it. You do it so effortlessly. It's like breathing for you. I wish I had such talent.
+Wynne: Oh, but you do. You have your music, your dancing. You are more graceful than anyone I've ever met. I think that perhaps the Maker gives us all magic... but of different sorts.
+Leliana: I never thought of it that way. I suppose we all have our little gifts. Back in Orlais, I knew a noble lady who was like most of the other noble ladies—fair of face and slow of wit. Anyway, Catarina had the most uncanny ability to tie knots in the stems of cherries, using only her tongue. It was very impressive. The men, especially, loved watching her.
+Wynne: Uh, yes, that's exactly the sort of Maker-given magic I was talking about.
+(alternate lines if Oghren was recruited)
+Leliana: Even Oghren?
+Wynne: Oghren is a dwarf. He doesn't really come from the Maker.
+Leliana: Oh, yes. That explains it.
+───────
+(after completing Broken Circle)
+Leliana: Wynne, is this yours?
+Wynne: Oh, my bag of components! Thank you, dear... I was wondering where it got to.
+Leliana: You left it by the fire, at camp.
+Wynne: Oh... yes, I remember now. How age creeps up on you, and brings with it forgetfulness...
+Leliana: You're a great mage, Wynne, and you're sharper and wiser than many people I know. Some young ones, too.
+Wynne: Ah, but you should have seen me fifteen, twenty years ago... the fires have dimmed somewhat since then.
+Wynne: But thank you, Leliana... for picking up after this old lady.
+───────
+(after Wynne's condition is revealed)
+Leliana: I heard about... what happened and I... I don't really know what to say, but I feel like I need to say something. Sorry, perhaps?
+Wynne: I do not need sympathy, so do not feel obliged to give me comfort. We all die, Leliana, and we all know it. How is this different?
+Leliana: Because... because it's sooner?
+Wynne: Is it really? I may die next year, or I may die tomorrow, shot through the heart by a bandit's arrow. I do not know for sure.
+Wynne: The constant fear of death is enough to take the joy out of anything, especially life.
+Wynne: Do not worry for me, or for yourself. Death will take us when it wills and till then, we shall live, truly live.
+Wynne and StenEdit
+Wynne: Aren't you chilly, Sten?
+Sten: "Chilly"? I don't know this word.
+Wynne: It's much warmer where you're from, isn't it? Don't you feel cold?
+Sten: I suppose.
+Wynne: I don't imagine we can find a cloak in your size, can we? Hmmm...
+Sten: What?
+Wynne: Nothing. Nothing, don't mind me. Now, I wonder where I could get a skein of good wool yarn...
+───────
+Sten: Why do you keep looking at me like that, mage?
+Wynne: I beg your pardon. I didn't mean to stare. I've never seen a Qunari before.
+Sten: You can blink once in a while. I'll still be here.
+───────
+Sten: Why are you here?
+Wynne: I beg your pardon?
+Sten: Women are artisans, or merchants. Or farmers, though you don't seem particularly... earthy. They have no place in war.
+Wynne: I can't even begin to tell you what's wrong with that idea.
+Sten: It is not done. There is no more to it.
+Wynne: I do not understand. Do the Qunari have no female mages? No female warriors?
+Sten: Of course not. Why would our women wish to be men?
+Wynne: Do you believe I wish to be a man?
+Sten: You cannot wish to be a man. It will lead you only to frustration.
+Wynne: Hmm. I believe this discussion does the same. Let us speak no more of it, Sten.
+Sten: As you wish.
+───────
+Wynne: You can stop flinching, Sten. I'm not going to harm you.
+Sten: I do not fear harm to myself.
+Wynne: What is that supposed to mean?
+Sten: An unbound mage is like a wildfire. As prone to consume itself as it is to devour all that surrounds it.
+Wynne: I do wish you wouldn't refer to mages as, "it".
+───────
+Wynne: Are all Qunari as quiet as you are?
+Sten: Are all mages as chatty as you?
+Wynne: ... That's fair.
+
+Sarel: "Oh, I am certain we played a part in our downfall. We believed that the shemlen would not revoke their prophet's gift so lightly. We were wrong. They took our lands, forcing us to abandon our gods and live as beggars in shemlen cities."
+Sten: "You should have fought. You should have fought to the last of you. Better that than to submit."
+Sarel: "Oh? Is it not the Qunari way to force others to submit? Surely that would not be your advice to my people were they attacked by the mighty Qunari."
+Sten: "That would be different. The Qunari would improve your people. The humans have improved nothing."
+Sarel: "Perhaps. Even so, many of us did fight. We fought and we lost."
+Sten and LelianaEdit
+Sten: You were in the Chantry. You are a priest?
+Leliana: No, no. I was a lay sister of the Chantry.
+Sten: Which means?
+Leliana: I lived and worked in the Chantry, but I did not take any vows.
+Sten: So you... dabbled in priesthood, then?
+Leliana: Oh no, the lay sisters don't have the same sorts of duties as priests at all.
+Sten: So you were not a priest, did none of their duties, and took no vows, but you lived among them?
+Leliana: Yes!
+Sten: ...You were a house guest of the Chantry?
+Leliana: Um... sort of...
+───────
+Sten: You sing a great deal.
+Leliana: Yes, I do. Music lifts my spirit. Would you like me to stop?
+Sten: I didn't say that. Was that part of your Chant?
+Leliana: (Laughs) No! It was a ballad about a highwayman and the tavern girl who loved him. Could you not tell?
+Sten: All your language sounds the same to me. I thought you were singing of vegetables, actually.
+───────
+Leliana: I saw what you were doing back there.
+Sten: Oh?
+Leliana: Don't play innocent with me.
+Sten: What are you talking about?
+Leliana: You. Playing with that kitten.
+Sten: ...There was no kitten.
+Leliana: Sten, I saw you. You dangling a piece of twine for it.
+Sten: I was helping it train.
+Leliana: You're a big softie!
+Sten: We will never speak of this again.
+Leliana: Softie!
+(an alternative to the above)
+Leliana: I saw what you were doing back there.
+Sten: Oh?
+Leliana: Don't play innocent with me.
+Sten: What are you talking about?
+Leliana: Outside, you were picking flowers!
+Sten: ...No, I wasn't.
+Leliana: You were!
+Sten: ...They were medicinal.
+Leliana: You're a big softie!
+Sten: We will never speak of this again.
+Leliana: Softie!
+───────
+Sten: Stop that.
+Leliana: (Giggles) Stop what?
+Sten: That. Looking at me and giggling.
+Leliana: I can't help it! You are so big and stoic! Who would have thought you'd be a big softie?
+Sten: Stop saying that! I am a soldier of the Beresaad! I am not a softie!
+Leliana: (Giggles) Softie!
+Sten: ...I hate humans.
+───────
+Sten: (Sigh) Leliana, what do you want from me?
+Leliana: Nothing! I'm just curious. There's a lot we don't know about you, Sten. ...Except that you're a big softie.
+Sten: Please stop saying that.
+Leliana: I'm sorry. I didn't mean to make fun of you. There's nothing wrong with having a heart, Sten. It's just not what I expected.
+Sten: Why?
+Leliana: You're so Qunari! All the stories speak as if you were a hurricane or an earthquake rather than people.
+Sten: Qunari are most dangerous because we are thinking men and not an unthinking force.
+Leliana: I don't understand. What do you mean?
+Sten: For your sake, I hope you never find out.
+───────
+Leliana: I've heard stories about the Qunari, you know.
+Sten: Oh?
+Leliana: They conquered nearly all of the north. Tevinter, Rivain, Antiva... Much of the land was laid waste. In the northern kingdoms, they say the Qunari are implacable. Relentless. More like a landslide than an invasion. It took three Exalted Marches to drive them back to the sea.
+Sten: We'll do better next time.
+───────
+Sten: Why are you here?
+Leliana: What do you mean?
+Sten: Women are priests, artisans, farmers or shopkeepers. None of them have any place in fighting.
+Leliana: I have no idea how to answer this...
+Sten: It is not done. There is no more to it.
+Leliana: Do you mean your people have no female mages or warriors?
+Sten: Of course not. Why would our women wish to be men?
+Leliana: What are you talking about? They don't wish to be men.
+Sten: They shouldn't. That can only lead to frustration.
+Leliana: Sten...no, never mind. Let's drop this.
+───────
+Leliana: Are there Qunari bards?
+Sten: Why wouldn't there be?
+Leliana: I don't know. You don't seem like very musical people to me.
+Sten: You base this on me? I am a soldier. The antaam does not do battle with lutes.
+Sten and AlistairEdit
+Alistair: Don't you ever talk? You know, make polite conversation just to put people at ease?
+Sten: You mean that I should remark upon the weather before I cut off a man's head?
+Alistair: ... Never mind.
+───────
+Alistair: Were you really in that cage for twenty days?
+Sten: It might have been closer to thirty. I stopped counting after a while.
+Alistair: What did you do? I mean... twenty days is a long time to sit in one place and do nothing.
+Sten: On good days, I posed riddles to the passersby, offering them treasures in exchange for correct answers.
+Alistair: Really?
+Sten: No.
+Alistair: Awww. Too bad. That's got serious potential.
+───────
+Alistair: You know, you never did tell me how you passed the time in that cage for so long.
+Sten: No, I didn't.
+Alistair: So... what did you do in there?
+Sten: A training exercise. I would observe an object and then try to think of all the words in your language which began with the same letter as its name.
+Alistair: That... wait. Just wait. You're joking again, aren't you?
+Sten: No.
+Alistair: You are not telling me that you played "I Spy" against yourself for twenty days.
+Sten: There are a lot of things in Lothering that begin with "G."
+───────
+Alistair: Hmmm... I spy with my little eye, something that begins with... "G."
+Sten: Is it a Grey Warden? Is it, in fact, you?
+Alistair: Oooh. You're really good at this.
+Sten: (Sigh)
+───────
+Sten: Draw your weapon.
+Alistair: Are you talking to me?
+Sten: Your weapon. Draw it.
+Alistair: Why? Are we under attack?
+Sten: I want to see what you can do.
+Alistair: You want to fight me? Just like that?
+Sten: You are a Grey Warden. How are you going to face an archdemon if you cannot face me?
+Alistair: It is a mystery, I'll admit.
+Sten: I should let your weakness damn us all? Draw your sword. I'll try not to injure you permanently.
+Alistair: I don't have to prove anything to you. Forget it.
+Sten: So you do have a spine. Pity you don't use it.
+───────
+(If Alistair will become king)
+Alistair: So I suppose once I'm actually king I could end up in negotiations with the Qunari one day.
+Sten: My people do not negotiate.
+Alistair: What do you mean? They negotiated a peace treaty after the war, and as far as I know they've kept to its terms.
+Sten: They signed a piece of paper. But only because they knew that you believed in it.
+Alistair: And what is the difference between that and negotiating?
+Sten: They stopped fighting for their own reasons. And they will resume it again, one day. The agreement means nothing to them.
+Alistair: But I thought you said your people believed in honor.
+Sten: They do. The honor of the Qunari is what will bring our warships back to your shores.
+
+Morrigan: You are very quiet, Sten.
+Sten: Only compared to some.
+───────
+Sten: Do you know of the kasaanda? The... sundew, in the common tongue?
+Morrigan: I do not believe so.
+Sten: No? You are so alike, I thought you kindred.
+Morrigan: What is that supposed to mean? What is the sundew?
+Sten: A flower.
+Morrigan: Oh? I am a flower, am I? How unexpected.
+Sten: That entraps and devours insects.
+Morrigan: Ah, now that I expected. (Chuckles)
+───────
+Morrigan: I am led to understand that the Qunari have their own mages as well. Is that so?
+Sten: You would not understand.
+Morrigan: Not understand? Is it mental capacity that you believe I lack? Or are you worried I will sympathize with my so-called brethren?
+Sten: Take your pick.
+Morrigan: (Chuckles) Is that supposed to make me angry?
+Sten: It means I find myself wishing that your people held proper, civilized attitudes towards magic.
+Morrigan: Hmm. That is a rather hostile thing to say.
+Sten: And yet you continue speaking. Astonishing.
+───────
+Morrigan: So are you going to continue staring at me as if I am covered in eels?
+Sten: Eels would be something.
+Morrigan: Prudery! How charming. I expected paranoia. This is much better. I prefer to be stared at lustfully, if at all.
+Sten: Keep trying, then.
+Morrigan: Oh? Then shall I demonstrate an act or two? And you may tell me hot or cold?
+Sten: I'll save time. Cold.
+Morrigan: (Chuckles) You are a tease.
+───────
+Morrigan: So have you changed your mind, Sten? I dream about you and I, if you must know.
+Sten: You would, even were I interested in a small thing like you. The Qunari act is... unpleasant.
+Morrigan: Unpleasant? Unpleasant how? Now I really am interested.
+Sten: Deadly.
+Morrigan: And what if I didn't mind? I enjoy a little... animation.
+Sten: You'd be less animated afterward.
+Morrigan: It sounds as if I am arousing your passions already, my dear Sten.
+Sten: Parshaara. Why do you pester me?
+Morrigan: (Chuckles) Because 'tis amusing, that is why.
+(alternate version if the Warden if in a romance with Morrigan)
+Morrigan: So have you changed your mind, Sten? I dream about you and I, if you must know.
+Sten: Don't you belong to the Grey Warden?
+Morrigan: In fact I belong to no one. And he would not mind, I am certain.
+Sten: You would, even were I interested in a small thing like you. The Qunari act is... unpleasant.
+Morrigan: Unpleasant? Unpleasant how? Now I really am interested.
+Sten: Deadly.
+Morrigan: And what if I didn't mind? I enjoy a little... animation.
+Sten: You'd be less animated afterward.
+Morrigan: It sounds as if I am arousing your passions already, my dear Sten.
+Sten: Parshaara. Why do you pester me?
+Morrigan: (Chuckles) Because 'tis amusing, that is why.
+───────
+Morrigan: You seem so deep in thought, my dear Sten. Thinking of me, perhaps? The two of us, together at last?
+Sten: Yes.
+Morrigan: I... what did you say?
+Sten: You will need armor, I think. And a helmet. And something to bite down on. How strong are human teeth?
+Morrigan: How strong are my teeth?
+Sten: Qunari teeth can bite through leather, wood, even metal given time. Which reminds me, I may try to nuzzle.
+Morrigan: Nuzzle?
+Sten: If that happens, you'll need an iron pry bar. Heat it in a fire, first, or it may not get my attention.
+Morrigan: Perhaps it would be better if we did not proceed.
+Sten: Are you certain? If it will satisfy your curiosity...
+Morrigan: Yes. Yes, I think it is best.
+───────
+Sten: Why are you here?
+Morrigan: Excuse me?
+Sten: Obviously you are no priestess. But shouldn't you be... running a shop, or a farm somewhere, rather than fighting?
+Morrigan: You think to tell me my place, Qunari? You are very brave.
+Sten: It is not done.
+Morrigan: But it is done. Do not be such a blind fool.
+Sten: I speak the truth. It is not I who am blind.
+Morrigan: Look around you, then. you see women throughout this land, fighters and mages both.
+Sten: That has yet to be proven.
+Morrigan: Which? That they fight? Or that they are female?
+Sten: Either.
+Morrigan: So I am not truly a woman to you? Hmm. 'Tis good to know.
+───────
+(if the Warden is in a romance with Morrigan)
+Sten: What are you trying to do, woman?
+Morrigan: I was not attempting to do anything. And do not speak to me in that tone.
+Sten: With the Warden.
+Morrigan: (Chuckles) Ah. Did you desire a demonstration?
+Sten: Do you believe you can control him? Did your magic fail you there?
+Morrigan: You have no idea what you speak of, Qunari.
+Sten: Perhaps not. But I know a viper when I see one.
+Sten and Shale Edit
+Shale: I have never heard of such a thing called a Qunari.
+Sten: Then you have not been listening. We did not row to shore last year, we have been about for centuries.
+Shale: I have listened. I have done little else, in fact, and yet I do not remember anyone mentioning such a Qunari in all my years in the village.
+Sten: Relying on humans as a source of education is a fool's errand.
+Shale: They are rather ignorant, aren't they? And feeble. At the best of times.
+Sten: We have creatures on Par Vollen that are similar. The humans call them "monkeys". They are dull, cowardly vermin. They cry out shrilly when threatened and throw their own feces.
+Shale: That is an excellent comparison. I wonder if they are related?
+Sten: Possibly.
+───────
+Sten: I do not understand what a golem is. Why would anyone create such a being?
+Shale: Why would one create a sword? To strike at its enemies.
+Sten: But you are no sword, golem. You speak like a living creature, but act like a possession. I do not know what to make of you.
+Shale: (Snorts) I am no possession, not now that the control rod is broken.
+Sten: No? It is still in your heart. Do you even realize this? "Age by age have men stood up and said to the world, 'From what has come before me, I was forged, but I am new and greater than my forebears.' And so each man walks the world in ruin, abandoned and untried. Less than the whole of his being."
+Shale: It is a riddle?
+Sten: (Sigh) It seems so.
+───────
+Shale: So are all of your kind similarly powerful, Qunari?
+Sten: I am not here to satisfy your curiosity, creature.
+Shale: That is true. I suppose I sounded like a human, chattering away? I apologize.
+Sten: No, it is I who should apologize. You are no human. You are a vastly superior construct.
+Shale: That's kind of the Qunari to say. If all of your people are like you, it is a wonder you haven't crushed the humans under your heel.
+Sten: I have wondered this same thing.
+Shale: One just need to look at them. They're so...
+Sten: Small?
+Shale: Exactly.
+Sten: You and I, we are of the same mind, kadan.
+───────
+Shale: What do you estimate are the chances of success, Qunari?
+Sten: For the Grey Warden? Little to none.
+Shale: So, why does it follow? I do not risk death, but it does.
+Sten: My mission is no different from the Grey Warden's. I must see this through to the end.
+Shale: It would rather perish than give up its quest?
+Sten: Indeed. There is honor to be salvaged in such a quest, no matter its chances.
+Shale: Honor is a curious thing. It is far better to be practical.
+Sten: What use is practicality when it leads to cowardice and emptiness? It is better to live well, than to live.
+Shale: An, uh... interesting theory.
+Sten: There is worth in your life, Shale. There is value, but only if it is used.
+───────
+Shale: I have a question of religion, Qunari.
+Sten: For you, kadan, I will answer.
+Shale: Would its "qun" accept a convert that was a golem?
+Sten: I do not know. It has never happened. We accept beings of all walks of life, so long as they are willing to accept their place in the world.
+Shale: And what place is that?
+Sten: One of equality. Within the Qun, an individual exists to serve.
+Shale: Hmm. That is less appealing. Would it consider birds to be its equal as well?
+Sten: Birds? Birds are... but animals. Enlightenment does not await them.
+Shale: Excellent. That sounds very promising.
+───────
+Shale: I have heard an interesting tale of the Qunari.
+Sten: Speak, kadan.
+Shale: I am told that the Qunari put mages on leashes. Leashes! What a delightful concept!
+Sten: It is not something that one should take pleasure in. It is done because it is necessary.
+Shale: Why not put them out of their misery? Crush their skulls and be done with it. Fast. Efficient. Fun.
+Sten: You have been offended by such men, so your bloodlust can be forgiven. But these ones you speak of are to be pitied. Even so, they must serve, just as any other must serve. All must find their place within the Qun.
+Shale: It does sound like a delightful place where it comes from. Mages on leashes. What will they think of next?
+Sten: I can not say that they would not wish to put a leash on you as well, kadan.
+Shale: Hmm... That does sound less fun. Yes.
+───────
+Shale: The Qunari mentioned something of equality when we last spoke.
+Sten: I said that all were equal under the Qun, yes.
+Shale: What of humans? Surely they would not be as equal as others.
+Sten: All who accept the Qun have their place, as any other. In the lands we occupy, even the Elves have come to embrace this concept.
+Shale: And if this place is at the bottom?
+Sten: If that is where one belongs, then that is where one should be.
+Shale: The Qunari are a very practical people, Sten.
+Sten: It is as I have always said. But I thank you.
+───────
+Shale: I wish to say that it has been pleasant fighting at the Qunari's side.
+Sten: I feel the same. You are a remarkable construct, kadan. A warrior to be feared.
+Shale: No more than the Qunari, surely. The way it strikes down its foes, marvelous!
+Sten: I smile each time you roar a battle cry, knowing our foes tremble.
+Shale: I could watch you fight all day long—the skill you display, the form, how the light plays on its muscles... I mean... yes. Well done. With the fighting.
+Sten: You, as well.
+Shale: Right.
+Sten and OghrenEdit
+Oghren: C'mon. Who ate the cabbage?
+Sten: Why ask me?
+Oghren: I guess you thought we could all share in the bounty?
+Sten: (Sigh)
+Oghren: Stand up to it, you giant ass! You've birthed a cloud to be proud of!
+Sten: Humph.
+Oghren: I hope you've thought of a name. Whew.
+───────
+Sten: Dwarf.
+Oghren: What?
+Sten: Stop tripping me.
+Oghren: Stop tripping yourself!
+Sten: If you were significant enough to notice, I wouldn't step on you.
+Oghren: Oh, well... your mother!
+Sten: ... That was disappointing. I expected better from you.
+Oghren: Sorry, I was in a rush.
+───────
+Oghren: Lost your weapon, did you?
+Sten: What of it?
+Oghren: Swinging an empty scabbard, then?
+Sten: ...
+Oghren: Your pike was purloined?
+Sten: "Purloined?" Did you have to look that one up?
+Oghren: Maybe. You have to admit, it's good.
+Sten: (Sigh)
+(alternate line if Zevran was recruited)
+Oghren: The elf gave me that one. You have to admit, it's good.
+Sten: (Sigh)
+Sten and DogEdit
+Dog: (Dog peers up at Sten, tail wagging)
+Sten: We don't have time for this now.
+Dog: (Dog continues peering, a little more determined)
+Sten: No, absolutely not.
+Dog: (Whines)
+Sten: There is no time. We have work to do.
+Dog: (Whines)
+Sten: (Sigh) ... Fine. Bring me the stick. But this is the last time, I swear it.
+Dog: (Happy Bark!)
+───────
+Dog: (Barks)
+Sten: I don't understand you.
+Dog: (Whines)
+Sten: ... Are you trying to say something about a child in a well?
+Dog: (Dog gives Sten a quizzical look)
+Sten: No? Never mind, then...
+───────
+Dog: (Growls)
+Sten: (Growls)
+Dog: (Growls)
+Sten: (Growls)
+Dog: (Barks)
+Sten: You are a true warrior and worthy of respect.
+Dog: (Happy Bark)
+
+Sarel: "Perhaps I can yet make amends. Stay while I spin a tale for our children and then I will tell you of the forest, if you so desire."
+Warden: "Yes, I'd like that."
+Sarel: "Come and join us, then, all of you."
+Shale: "Bah. The elf wants to tell stories? Do we truly have time for such drivel?"
+Sarel: "I imagine an ancient being such as yourself would have many stories to tell, hmm?"
+Shale: "Indeed. I have thirty years worth of tales involving pastoral village life and being defecated on by pigeons. Riveting stuff."
+Sarel: "(Laughs) And far more than that, I suspect."
+Shale and MorriganEdit
+Shale: The swamp witch has a great deal in common with my former master.
+Morrigan: "The swamp witch?" How original.
+Shale: The swamp witch has the same arrogance, the same air of cruelty. I would hate for it to have possession of my control rod... if it still worked, of course.
+Morrigan: Let me tell you what you can do with your control rod, golem.
+Shale: Is it telling me that if the rod did work that it wouldn't want control over me?
+Morrigan: I wouldn't go so far as that. I could, for instance, command you to go and jump in a lake. A very deep lake.
+Shale: It fools no one. The swamp witch would control everything, if it could. It would have us all dancing on its strings.
+Morrigan: Oh, you know me too well, golem. Your revealing gaze has laid me bare.
+Shale: I will be watching the swamp witch. It must not be trusted.
+Morrigan: (Sigh) Now you're beginning to sound just like Alistair.
+───────
+Shale: I understand the swamp witch is out to slay its own mother?
+Morrigan: Entirely in self-defense.
+Shale: So it claims. It could not have been its plan from the very beginning, then.
+Morrigan: I knew nothing about my mother's... intentions... prior to finding the book. 'Twas your notion I arranged that?
+Shale: Unnecessary, considering it is the only one who can read the book. It could just as well be a journal, or a book of recipes.
+Morrigan: Would you like me to teach you how to read the book? Then you can see for yourself.
+Shale: (Snorts) Now it is testing me.
+Morrigan: (Chuckles) Well do you care enough to learn, or no?
+Shale: No. I do not care.
+Morrigan: Then leave me be.
+───────
+Shale: Why does the swamp witch still travel with the Grey Wardens?
+Morrigan: You are of the opinion that I should not be?
+Shale: I am curious. It seems as if it has little reason to stay.
+Morrigan: The same could be said of you. There is no control rod commanding your presence, golem.
+Shale: I have no history, and thus no purpose. The same cannot be said for the swamp witch. Its purpose is simply unknown.
+Morrigan: Keep asking questions and I shall turn into a bird. I can do that.
+Shale: (Snorts) I have no fear of birds.
+Morrigan: Oh, I didn't say you were afraid. I would simply hover out of reach, hovering, waiting until...
+Shale: Enough! I shall be silent.
+Morrigan: Excellent choice.
+───────
+Shale: How many other forms can the swamp witch become?
+Morrigan: Several.
+Shale: Can it become a golem?
+Morrigan: Seeking companionship, are you?
+Shale: If it could become a golem, I simply wonder why it would not stay that way. It is a superior form.
+Morrigan: No, I cannot become a golem. I can learn to become animals, and each form must be learned anew.
+Shale: And how does it learn a form? Does it read about it somewhere?
+Morrigan: (Laughs) 'Tis not a talent one can read from books! You must copy a creature's soul!
+Shale: I do not understand.
+Morrigan: Nor should you. Rock is unchanging—allow it to stay that way.
+───────
+Shale: Would the swamp witch consider explaining the nature of magic to me? I am most curious.
+Morrigan: Surely there is another who would not be so bothered by your tiresome questions. Perhaps Alistair?
+Shale: I fear the second Warden has not the knowledge to answer my question.
+Morrigan: You might ask him anyhow. Certainly whatever he happened to come up with would serve as amusement.
+Shale: I do not understand. I seek enlightenment, and not amusement.
+Morrigan: You're apt to get much further seeking amusement, I assure you.
+Shale: The swamp witch is a most confusing creature. I do not understand it.
+Morrigan: You're not the first one to say so. The first golem, perhaps.
+Shale: I will ask the swamp witch later when it is less inclined to make bizarre responses to my queries.
+Morrigan: You will be waiting for some time, then, I fear.
+───────
+Shale: I would still like to know how the swamp witch learns its forms.
+Morrigan: Eager, are you not? Does the golem wish to become human, after all?
+Shale: A human is soft and weak form. I desire no such thing.
+Morrigan: Then why the interest in shapechanging? Unless you secretly wish to become something other than what you are?
+Shale: Is that why the swamp witch learned? To escape her form?
+Morrigan: In a way. It was lonely to grow up in the Wilds. To join with the forest, to become one with its denizens... there was a freedom in that.
+Shale: I think it would be an excellent talent for disguises.
+Morrigan: Or perhaps to walk through doors without hitting one's head, hmm?
+Shale: Yes, exactly.
+Morrigan: Well. 'Tis not a good enough reason.
+───────
+Shale: What is a good enough reason?
+Morrigan: For which?
+Shale: It said that my reason for learning more of shapechanging was "not good enough." What reason would be?
+Morrigan: (Chuckles) I do not know. Tell me what it is, and I shall decide.
+Shale: It could simply decide any reason was insufficient then.
+Morrigan: You find that maddening, do you?
+Shale: It has a bird-like nature to its sadism, I'll give it that.
+Morrigan: Good. Let us leave it that way.
+───────
+Shale: So I take it that the swamp witch and the Grey Warden are... intimate?
+Morrigan: I am hoping that is not a reference to Alistair.
+Shale: Because it believes I am an oblivious moron?
+Morrigan: Anything is possible. As to the original question, is there a reason you ask?
+Shale: I am simply curious as to whether or not it bewitched the Grey Warden.
+Morrigan: (Scoffs) I have no need to force anything from men.
+Shale: Oh? My apologies then. I was about to offer my congratulations for a task accomplished.
+Morrigan: And not intended as a backhanded compliment at all, yes?
+Shale: Not at all. I am the soul of politeness.
+───────
+Shale: The swamp witch desires something from it.
+Morrigan: From what? Ah... you mean from him. (Chuckles) And if I do? What of it?
+Shale: It is aware of the swamp witch's true nature?
+Morrigan: Let me guess. You know my true nature?
+Shale: I have spent a great deal of time observing the world. I know what I see when I see it.
+Morrigan: You spent thirty years watching whatever a small village was willing to parade in front of your eyes. Do not cast yourself as the worldly sage. At best you are a barely-working statue with a poor memory and a poor attitude. Do not seek to begin judging me.
+Shale: Hmph. Perhaps it has a point.
+Morrigan: Yes, I should think so.
+───────
+Shale: The swamp witch has been looking at me oddly. Stop it, or I will crush it's tiny, bird-like head.
+Morrigan: I am simply finding it difficult to believe that there is a woman inside of there.
+Shale: A woman who was also a warrior. And a dwarf.
+Morrigan: Yes, that would explain a great deal.
+Shale and AlistairEdit
+Shale: It has become very close with the other Grey Warden
+Alistair: Uh...yes, I suppose I have at that.
+Shale: I find this difficult to comprehend. It is whiny and weak and constantly laughing.
+Alistair: Then I guess a romance between you and I is completely out of the question?
+Shale: And the attempts at humor. I cannot understand how it is endured.
+Alistair: Well maybe you should ask her why she likes me so much instead of bothering me with it.
+Shale: It has a loud mouth. Why its head has not been crushed already is hard to imagine.
+Alistair: Or maybe you just happen to figure she likes me a lot more than she likes you.
+Shale: Don't be foolish.
+Alistair: Yes, I thought so. Just watch your step or I'm totally telling.
+Shale: I'm going to stand over here now.
+───────
+Shale: I find it very odd.
+Alistair: "It" meaning me? Am I an "it," now, too? I feel honored.
+Shale: For one who professes to be a warrior, I find it remarkably weak-willed and indecisive.
+Alistair: Er... thank you?
+Shale: It also likes to hide its many weaknesses behind a veil of jocularity.
+Alistair: For a statue, you know a lot of big words.
+Shale: Is there a reason it enjoys following others so much? Especially when it is in a position to lead?
+Alistair: Have you ever been responsible for someone else's life? Or a lot of other lives? Or an entire nation?
+Shale: Of course not.
+Alistair: Then... shut... up.
+Shale: I will remember this moment when the birds come.
+───────
+Shale: I am told that it lost a large number of comrades in the battle with the darkspawn.
+Alistair: Me? I guess I did, yes. I didn't know all of them that well, however. Mostly just Duncan.
+Shale: I am unfamiliar with this name.
+Alistair: It's... it's not important. You don't need to know who he was.
+Shale: I cannot remember if I ever had anyone important to me. All I remember is being given orders.
+Alistair: I would gladly be following Duncan's orders right now, if I could.
+Shale: It enjoys following others? I find that odd.
+Alistair: You wouldn't understand. Don't worry. I don't expect you to.
+───────
+Alistair: So, Shale... when you were standing there all that time? Did you... sleep?
+Shale: I have no need to sleep. My body does not tire or do—ugh—other flesh-related functions.
+Alistair: But don't you get bored? Wouldn't you want to dream, at least?
+Shale: I do not dream. This is what it does when it sleeps? It paws its nose and mumbles incoherently.
+Alistair: Yes, of course. I thought we all—huh... you watch me?
+Shale: I watch all closely when they are still at night. There is little else to do.
+Alistair: For... hours and hours?
+Shale: I count the breaths. it helps to overcome the overwhelming urge to crush their faces while they sleep.
+Alistair: Well. I won't be doing much of that anymore.
+───────
+Alistair: So tell me something... do you feel pain? When you get hit in combat?
+Shale: This is when it squeals loudly and spurts blood about? This is when it feels pain?
+Alistair: Uh... maybe? I've seen you take some bad hits. Don't you feel anything?
+Shale: Anger. Rage, even. Perhaps a little distress. Is this pain?
+Alistair: I'm not sure. I don't think I'd call it distress, exactly. It's more... (screaming)
+Shale: For me, it is more... (pained growl)
+Alistair: That sounds more like a bowel movement. I mean that sharp, stabbing... (screams) Like that?
+Shale: No. Nothing like that.
+Alistair: No? Huh. Good to know.
+───────
+Shale: So it has become king after all, yes?
+Alistair: It looks that way.
+Shale: Is this not a good thing? This is a position of importance, no? Did it not want to be king?
+Alistair: Not really, no. We don't always get what we want, however, do we?
+Shale: If I were king, I would order that all birds be shot out of the sky. I would arm everyone with bows and put them on constant vigil.
+Alistair: Well, let's be glad you're not king, then.
+Shale: I suspect it thinks that would be a pointless endeavor. But it would be wrong.
+Alistair: Ummm, right... just as an aside? This bird fixation? Creepy.
+───────
+Alistair: So this... "bird thing" of yours.
+Shale: I do not have a "bird thing." I have an extremely justified rage of the flying vermin that plague this world.
+Alistair: But there are some birds that are useful. Like the ones you eat!
+Shale: I approve of the ritual slaying of the foul beasts, but—it eats one? Disgusting.
+Alistair: They're really quite tasty. you just need to rip off the feathers, first. I like the skin, myself.
+Shale: I... think I am going to be sick...
+Alistair: Ooh! Golem vomit! This I have to see!
+───────
+Alistair: So do you ever want to go back?
+Shale: To Honnleath? Perhaps it should stare at a patch of grass for thirty years and then tell me how much it misses it.
+Alistair: Point taken. Still, if you can't remember anything else ever... it would be scary to leave, I'd think.
+Shale: Fortunately, I am not as comfortable with the mundane and familiar as some.
+Alistair: Ooh, ow. Ow! Sort of an adventurer, I see. Brave new world, that sort of thing.
+Shale: And instead, I should be content to remain in that village, standing still out of fear of the unknown? What life is that?
+Shale: I know what I am, now. I know how I was made. I can move forward. It who has had so much more should do half as well.
+Alistair: Um. Thanks for that. I feel... really good, now.
+Shale: A pleasure. Next time, we shall speak of its grammar and personal hygiene.
+Shale and OghrenEdit
+Shale: (Sigh) So. I have a question for you, dwarf.
+Oghren: Oh? Sounds like you're passing a stone, there. (Laughs) get it? "Passing a stone?"
+Shale: I do get it, yes. My question is this: had the Anvil of the Void not been destroyed, does it believe the dwarves would have used it?
+Oghren: Hmm. You mean to create more golems? Oh yes, faster than you could squish a nug.
+Shale: Even knowing the agony that it caused? They would still inflict it on others?
+Oghren: No need to inflict it. There'd be plenty ready and willing to sign up, just as you did. There's fewer and fewer of us each year, and the darkspawn never run out. If it meant saving Orzammar? There'd be plenty who'd become a golem, sure.
+Shale: Does it think it was wrong to destroy the Anvil, then?
+Oghren: (Sigh) No... sometimes people need to be kept from doing stupid things, even for good reasons.
+Shale: It is referring to its former wife?
+Oghren: I think some statues should sod off and ask their sodded questions to someone else.
+───────
+Shale: Would the drunken dwarf have saved its former wife if it could? I assumed that since the drunken dwarf was a master of the inappropriate it lacked the ability to actually be offended.
+Oghren: Hmph. Good call. Truth is, I don't know. She was almost crazier than when we were married, it looked like.
+Shale: Almost? It is exaggerating, surely.
+Oghren: Branka was always a bit twitchy. There was that day she took her forging hammer to my head for misplacing her tongs... ah, good times.
+Shale: I am finding the nature of its relationship to this Branka difficult to imagine.
+Oghren: Make-up sex. She really knew how to polish the old anvil, if you take my meaning! (Whistles) Paragon! (Laughs)
+Shale: I am done imagining, now.
+───────
+Shale: There was a man in the village who reminded me of the drunken dwarf.
+Oghren: They had some dwarves just like me, huh?
+Shale: No. None of the dwarves were similar. They were quiet and respected, more or less. No, the one I remember was a human. He vomited in the street constantly. Then he wandered into a snowstorm and froze to death.
+Oghren: Huh? And how is that like me?
+Shale: Did I say similar? I meant I hoped he was similar.
+Oghren: I think I had a wife like you, once.
+───────
+Oghren: So. Do golems know any good jokes?
+Shale: I know at least one. It is a drunken dwarf that travels with the Grey Warden, constantly belching and--
+Oghren: Bah! I mean a real one! You must have overheard at least one or two standing there as you did for years and years!
+Shale: There was a human man who once started telling a joke to another as he relieved himself on my leg. I confess I didn't listen. I was too busy planning my revenge.
+Oghren: Eh? And what happened to him?
+Shale: He disappeared during the fighting in Honnleath. Tragic. Hit his head on a rock, I think.
+Oghren: Huh. Remind me not to fart anywhere near you.
+───────
+Shale: The drunken dwarf fights... reasonably well.
+Oghren: You don't have to make it sound like you're passing a stone to admit it.
+Shale: It is not physically weak. Or entirely inept. In combat.
+Oghren: You looking to borrow money, or something?
+Shale: I am saying that there are worse things than being forced to fight at its side.
+Oghren: Good to know. Should I drop my trousers now? Or are you done?
+Shale: Done. Very done.
+───────
+Oghren: You know, I've seen a golem or two in my time. We have them in Orzamar.
+Shale: It is indeed wise in the ways of the golem. It deserves a medal.
+Oghren: Thing is, I don't remember anyone ever mentioning about them having memory problems.
+Shale: Perhaps they are not the ones with the memory problems.
+Oghren: I talked to a golem once. It didn't have anything interesting to say... But its memory? Sharp. It could tell you what you were wearing at the Barnack festival ten years ago.
+Shale: Probably vomit and flies and little else if I were to guess.
+Oghren: 'Course if someone simply claimed to have lost their memory... That would avoid some awkward questions.
+Shale: Is it still talking? It is not drinking, so it must be.
+Oghren: Fine, fine. You go on and don't answer me. You'll screw up sooner or later.
+───────
+Oghren: So...
+Shale:: What? Why is a drunkard staring at me?
+Oghren: So you were a girl dwarf?
+Shale: And? What of it?
+Oghren: So essentially right now you're a naked, girl dwarf!
+Shale: Who is also made of stone. Erase the mental image in your head drunkard, or I will crush it out with my fist!
+Oghren: Hot!
+Shale: I'm going to stand over here now.
+
+Shale: So I am to understand the sister is a follower of this "Maker"?
+Leliana: Am I the sister? Aw... that's so cute. It's like you're my big brother, or sister... or whatever.
+Shale: I am a creature of stone. I doubt that we will be related in any shape or form.
+Leliana: Oh I didn't mean it literally. Don't you think people can be related in spirit?
+Shale: I noticed that humans tend to believe in a great deal of things that are not true, even when given evidence to the contrary.
+Leliana: Believing in things when there is no proof is what faith is all about, Shale.
+Shale: Believing in things when there is no proof is what gullibility is all about.
+Leliana: So I am gullible now?
+Shale: I, ah, take it we are no longer sister in spirit?
+───────
+Shale: I, uh, may have a cause to apologize to the sister.
+Leliana: Apologize? For what?
+Shale: For suggesting that the sister is gullible for believing in things which were not real.
+Leliana: Oh that. I've already forgotten about that. Thank you for reminding me.
+Shale: I suppose it would offer some... comfort... to believe that things occur according to some grand purpose. All those years I spent in Honnleath, unable to move, it would be comforting to think there was some reason for it.
+Leliana: Do you know there wasn't? Maybe the Maker did it to bring you here, to us. You once said that you have no purpose. Perhaps you were simply looking for it in the wrong place.
+Shale: Perhaps. I shall think on this.
+───────
+Shale: I have thought about what the sister said.
+Leliana: Our last talk? And?
+Shale: I would like the sister to explain to me the purpose of birds.
+Leliana: Birds? What... kind of birds?
+Shale: Any kind. The evil little demons that strafe the ground with their droppings. What reasons could your Maker have for such things?
+Leliana: The same reason he has for any...evil. Such as the darkspawn, if one were to... equate the two.
+Shale: I have a hard time believing a higher power inflicting any evil upon this world. Does it enjoy such jest?
+Leliana: Perhaps there is a lesson to learn in it. Not all lessons are easy, Shale.
+Shale: Hmph. It's any wonder this Maker has so many followers. I mean... Birds! What was He thinking?
+───────
+Shale: I have thought a little more about the sister's Maker.
+Leliana: He's not just my Maker Shale. He's your Maker too. He created everything.
+Shale: I happen to know exactly who my maker is.
+Leliana: I think you're wrong. The important part of you... that part which makes you you... He made that.
+Shale: And the sister simply believes this, even though there is no proof?
+Leliana: I do.
+Shale: And the sister still believes that she and I could be sisters? In spirit?
+Leliana: I do. I think that would be nice.
+Shale: I suppose there are worse things that could happen. Like being assaulted by a flock of pigeons.
+Leliana: I'm glad to hear it.
+───────
+Leliana: I did not realize that you were a woman.
+Shale: That is because I am not. I am a golem.
+Leliana: But you were once a woman. And a dwarf. Doesn't that... mean anything to you?
+Shale: The bard speaks of someone who lived five centuries ago. What have I in commmon with her?
+Leliana: You share a soul.
+Shale: I do not... it talks in riddles. Desist, or I shall crush its head.
+───────
+Leliana: Do you miss the life you once had, Shale? These centuries of memories you have lost?
+Shale: Does it miss being within its mother's womb?
+Leliana: Do I...? Well, no. I don't remember that far back.
+Shale: It is no different. My memory stretches only so far, and what went before is now lost.
+Leliana: And you remember nothing at all? Not even a little bit?
+Shale: There are... images. Faces who I have no names for. places I remember being but not where they are. Do I miss these things? They are without context. I feel only disquiet when I think of them.
+Leliana: Like dreams, then. When you awake all the details have fled.
+Shale: Is that what it is to dream? Then yes. Perhaps it is like that.
+Leliana: How very sad. To discover your entire life has been a forgotten dream. I am so sorry.
+───────
+Shale: The sister has interesting footwear.
+Leliana: Oh? You... like shoes, do you?
+Shale: My mass is considerable. Some cushioning on my feet would be ideal, but I doubt such footwear could be made.
+Leliana: Hmm. I could see some nice, thick sandals being made. With very tick leather straps. Oh yes, that could be done! Perhaps we could find some cobbler who could give it a try! What color would you want?
+Shale: Surely the color is unimportant.
+Leliana: In fact, the color is very important. That, and picking a shape that makes your ankles look slender... and you could use some help there, I fear.
+Shale: I... have thick ankles?
+Leliana: It's all right. I don't like my thighs. What's important is working with what you have.
+Shale: Hmm. Very well. I wish my shoes to be red.
+Leliana: Ooh! Bold choice! We'll have to remember that!
+───────
+Shale: Why does the bard stare at me so?
+Leliana: I was thinking about writing a song about you. "The Statue with the Heart of Gold"... or something like that.
+Shale: It thinks my heart is made of gold? It is stone, as anything else. Cold stone.
+Leliana: I meant that you had... a good heart. It seems to be that you do.
+Shale: And they call this having a "heart of gold?" Why?
+Leliana: Uh... because gold is precious and shiny and... a good heart is just as valuable?
+Shale: Shiny.
+Leliana: In a manner of speaking.
+Shale: My heart does not qualify as shiny. I kill. Frequently, and not without pleasure.
+Leliana: You had a difficult life. Deep down, at the center of your being, you are a good person. I believe that.
+Shale: Even though I have never demonstrated this aspect? How peculiar.
+Leliana: You aren't all stone, Shale. There is a person inside of you.
+Shale: If so, it is because I ate it.
+───────
+Leliana: I do not understand why you hate birds so much.
+Shale: It is because I had to endure their chirping, their perching, and most especially their constant sh-
+Leliana: No, I understand that part. But they were just... being what they are!
+Shale: Exactly. Disgusting vermin with wings. Darkspawn must be exterminated for being what they are, as well.
+Leliana: But a bird is a creature of grace, and beauty! They open their mouths and they sing!
+Shale: The bard hears music. I hear a wail of banshees that boils my blood.
+Leliana: But... what about a nightingale? Or a swan?
+Shale: They are not pigeons, it is true. Still? Evil beasts of the sky.
+Leliana: (Sigh) I give up.
+───────
+(if a male Warden is in a romance with Leliana)
+Shale: I notice the sister has spending a great deal of time with it.
+Leliana: With "it?" Oh... you mean him. I'm surprised you would notice such things.
+Shale: I am made of rock. This does not make me dense.
+Leliana: (Giggles) I suppose not.
+Shale: Does the sister not see a problem with serving two masters?
+Leliana: Hmmm. Ignoring the "serving" bit. I'll assume you mean the Maker. I´ve entered a chantry as a lay sister. But I never took vows. Even had I, the chantry doesn´t prohibit two people from coming together in love.
+Shale: I was told that the sister left behind the service of the Maker to journey here.
+Leliana: You never really leave the Maker. Not in your heart.
+Shale: That seems like an argument for infidelity.
+Leliana: You... are very catty for a walking statue, you know that?
+Shale: It has been mentioned.
+
+Oghren: I swear. The things I could do to you.
+Morrigan: Ugh. It is leering at me once again...
+Oghren: Oh. Did I say that out loud?
+───────
+Oghren: You couldn't hurt me if you wanted to, witch, you know that?
+Morrigan: T'is so?
+Oghren: Dwarves resist magic, woman. There's nothing you could do.
+Morrigan: Nothing? I could not, for instance, kick you in your manhood?
+Oghren: Oof.
+Morrigan: Do you wish to see?
+Oghren: Not necessary.
+Morrigan: Well, the offer stands.
+───────
+Morrigan: That is a most offensive odor.
+Oghren: And you're looking at me?
+Morrigan: Should I be looking elsewhere? Have you forgotten about the fish you stored in your backpack, perhaps?
+Oghren: I was saving it. Won't be ready for the lye for at least another day.
+Morrigan: Even the Chasind did not have such disgusting habits, and they consumed the flesh of the dead.
+Oghren: Fine, fine, I'll soak it in the lye now. Have it your way, Miss Squeamish.
+Morrigan: That's not what I... no, never mind. Just... get it over with. Quickly.
+───────
+Oghren: Hmmm. So you can turn into animals, aye? Like cats and wolves?
+Morrigan: When the desire strikes me.
+Oghren: Have you ever... you know. "When in Tevinter..."
+Morrigan: That's a most curious little mind you have, dwarf. And what if I had? Would that thought comfort you during your lonely nights?
+Oghren: Hmmm. Have you ever changed during--
+Morrigan: Why are you suddenly asking me this?
+Oghren: How do we know you're truly a woman? Or even human! You could be a chip mouse... or a nug! Ha! Imagine that!
+Morrigan: Why, yes. I am actually a nug in human form. I have come to observe your kind.
+Oghren: Huh. Nugs are good with extra sauce. I'm just saying.
+───────
+Morrigan: Lay your hand on me once more, dwarf, and the moment shall be your last.
+Oghren: Ahhh, don't take it personally. I stepped on a rock! You don't want me to fall and break my neck, do you?
+Morrigan: The prospect would not trouble me overmuch.
+Oghren: Hmph. You sound just like Branka.
+Morrigan; Then I commend her good sense. But this is the last time I will tell you. Touch me no more.
+Oghren: Huh. Branka said that too...
+───────
+Oghren: Have you ever thought about getting yourself a husband, Morrigan? It might do you some good, you know.
+Morrigan: Tie myself to another with bonds of servitude? It serves no purpose.
+Oghren: Don't you want little Morrigans running about some day? The pitter-pat of little witchy feet?
+Morrigan: You say that as if one is necessary for the other to follow. My mother needed no husband to have her daughters.
+Oghren: But you're no ugly, old forest witch. I'm sure you can land yourself a proper husband if you just show a bit more skin.
+Morrigan: Is that how you "landed" your own wife? No wonder she turned to her own sex for comfort.
+Oghren: Now that's just mean.
+───────
+Morrigan: You are a disgusting creature, dwarf. Did you believe I would not see you? That scarf was my own.
+Oghren: Bah! I had to blow my nose. Blasted surface air tickles the nostrils.
+Morrigan: You had no right to take what was not yours!
+Oghren: Don't be such a squealing nug. You can use my handkerchief any time.
+Morrigan: If you have a handkerchief, then why not use it?
+Oghren: Too dirty. Yours was cleaner.
+Morrigan: This is intolerable! Don't force me to test that dwarven resistance of yours, fool.
+Oghren: Promises, promises.
+───────
+(if the Warden is in a romance with Morrigan)
+Oghren: What do you people see in him?
+Morrigan: See in whom?
+Oghren: In the Warden.
+Morrigan: (Chuckles) Jealous, are we?
+Oghren: Jealous! Of him? Ha!
+Morrigan: Of course. A handsome man, with women fawning over him. It must be very difficult for you to handle. I do not blame you your envy, however. Especially considering that the chances of any woman who is not struck both blind and dumb of providing you the attention you crave is... slight.
+Oghren: Quiet, you! You can't get under my skin!
+Morrigan: Were I you, I would simply give up all hope of knowing another woman at all. Or have you already? A wise move, if so.
+Oghren: Forget I said anything.
+Morrigan: Trust me, dwarf... I already have.
+───────
+(if the Warden slept with Morrigan)
+Oghren: So, you and the Grey Warden, huh? (Chuckles)
+Morrigan: I hope you're not referring to Alistair.
+Oghren: Him? Does he even like girls?
+Morrigan: I believe the matter is still up for debate.
+Alistair: (if present) *Sigh* I'm right here, you know.
+Oghren: Anyway. You and the Grey Warden, huh?
+Morrigan: Do you actually have a question, dwarf? Or is it your intention simply to leer and drool?
+Oghren: Stick with the classics. Leer and drool.
+Morrigan: I thought so.
+Oghren and LelianaEdit
+Oghren: They tell you what to wear in the Chantry?
+Leliana: You have robes and such that you must wear.
+Oghren: And uh, so. Robes. What else?
+Leliana: Well... sometimes there are vestments and ceremonial garments...
+Oghren: Right. Right. And... and then?
+Leliana: Why are you so interested in this?
+Oghren: Oh sod it. Under the robes: pants? No pants?
+Leliana: What?
+Oghren: Stop stalling. Naked or not?
+Leliana: What difference does it make?
+Oghren: All right. Stonewall me. I'll find out one way or the other.
+Leliana: Uh, right. Good luck with that.
+───────
+(after completing A Paragon of Her Kind)
+Oghren: (Sigh)
+Leliana: Is something the matter? Are you... are you thinking about Branka?
+Oghren: Branka--?
+Leliana: You loved her, didn't you? I've seen you, some nights, staring off into the distance with such sadness in your eyes. You wonder if you did something that drove her away; you wonder if she would have stayed if you had done things differently. She must have loved you, somewhere inside...
+Oghren: That sodding great dew-licker had a heart clad in iron. She only had one love—the Anvil. and later, the Anvil. Only sighed because I was gassy, and finally let off a good one. (Inhales) Should be hitting you right about now. (Laughs) Silent killer, eh?
+Leliana: (Coughs)
+───────
+Oghren: How do you stand it? All that open air? Sometimes I look into that big black emptiness and it's like it's swallowing me up.
+Leliana: I like it. I like to imagine the sky goes on forever... boundless fields of stars, whirling and swirling eternally in their slow dance...
+Oghren: Not... helping. I don't like looking up and seeing a great infinite nothing.
+Leliana: You know, in the old days, people said that the sky was an immense vaulted ceiling, crafted by the Maker Himself to protect the world. But the ceiling-sky covered the world in shadow, and so He set in it the sun and moon, to light up the world below. And then He made the stars, and he laid them down in curious patterns, that man would look upon them and wonder what they represented.
+Oghren: So the sky is just the inside of a great sodding cave.
+Leliana: That's what they believed. And it gave them comfort.
+Oghren: Hmph. Then why the bleeding mud did your Maker build it so high up?
+───────
+(after Leliana was given the Cute Nug as a Gift)
+Oghren: Ach! Leliana, get this stupid beast out of here.
+Leliana: I am sorry, Oghren, was he disturbing you?
+Oghren: No, but if he isn't careful I'm going to start thinking about how delicious he looks. A little taste of home, eh?
+Leliana: Um, I will make sure Schmooples is never underfoot again.
+Oghren: Schmooples? You named a nug Schmooples? The last thing we need around here is a walking snack named Schmooples!
+Oghren and AlistairEdit
+Oghren: So. With the boss, aye?
+Alistair: Pardon?
+Oghren: You and the boss. Rolling your oats.
+Alistair: I don't know--
+Oghren: Polishing the footstones.
+Alistair: --what you're--
+Oghren: Tapping the midnight still, if you will.
+Alistair: What are you going on about?
+Oghren: Forging the moaning statue. Bucking the forbidden horse. Donning the velvet hat.
+Alistair: Are you just making these up right now?
+Oghren: Nope. Been saving 'em.
+───────
+Oghren: You know what would do you some good?
+Alistair: A pair of nose plugs?
+Oghren: Go out, find a girl. Doesn't matter who, as long as there's no pants involved.
+Alistair: What makes you think I haven't?
+Oghren: I can smell purity a mile away. It's a talent.
+Alistair: That proves to be useful, I'm sure.
+Oghren: Not that often, it turns out. Be much better if I could smell cheese.
+Alistair: You have my deepest condolences.
+Oghren: Yep. So do you.
+───────
+Oghren: So, uh, what did you do with her legs?
+Alistair: Whose legs?
+Oghren: Her legs. That's the problem with dwarven legs. They're useless as an accessory.
+Alistair: I didn't do anything with them. I don't know what--
+Oghren: Ah, say no more. Just got 'em outta the way and went about your business. Good on you, son.
+Alistair: Uhm. Thanks.
+───────
+Alistair: So you and Branka were really married?
+Oghren: Tell you what, boy: you ever been married?
+Alistair: Of course not. I was raised in the Chantry.
+Oghren: Thank the hardest stone you can find. Marriage is for suckers.
+Alistair: So no pitter-patter of little Oghren feet running around the home cave, I take it?
+Oghren: All I ever got out of that moss-licker was a headache, a deaf ear, a scratched-up back and that rash it took three different ointments to get rid of.
+Alistair: Wow, she gave up on you, did she? And here you are, a keeper, too.
+───────
+Alistair: What? You're... you're drunk, aren't you?
+Oghren: Eh? Was that a question? It didn't sound like a question.
+Alistair: How in the Maker's name do you manage to be constantly drunk? Are we even carrying that much alcohol with us?
+Oghren: Jealous, huh? (Laughs)
+Alistair: A little, yes. Why can't I be drunk all the time? I never get to be drunk.
+Oghren: You know, if you drank more wine, you would whine much less.
+───────
+Alistair: So... that game you were playing in camp, what was that?
+Oghren: Diamondback. You've never played Diamondback, have you?
+Alistair: That's Diamondback? I've... heard of it. I thought it was a card game played by dwarven... er...
+Oghren: Go on, say it. Prostitutes. It's not true, of course.
+Alistair: It's not?
+Oghren: Of course not. A noble hunter never charges money. Not if she wants to see him again, that is. Never saw one turn down from a gift, though.
+Alistair: Err... what does that have to do with card games?
+Oghren: Even a noble hunter can get bored. Tell you what, don't ever bet your clothes. They'll strip you clean and leave you naked in the street, trust me.
+Alistair: I'll... take your word on it.
+───────
+Oghren: Ah. Yep. Lot of tension around here.
+Alistair: You think so, do you?
+Oghren: Know what I do to relieve tension?
+Alistair: I hesitate to wonder.
+Oghren: I polish the ol' weapon.
+Alistair: Really.
+Oghren: Yep. Give it a good shine. With a dry rag, then with a little grease.
+Alistair: That's disgusting.
+Oghren: You're telling me you never gave yer blade the old spit-shine?
+Alistair: I think that's private.
+Oghren: Really? Sodding Chantry and its rules. I like to do it right out in the open.
+Alistair: Where people can see you?
+Oghren: Yep.
+Alistair: Wait, what are you talking about?
+Oghren: What are you talking about?
+Alistair: (Sigh) Never mind.
+
+Oghren: If you just stood still for a minute...
+Dog: *Cocks his head quizzically*
+Oghren: You like Oghren, don't you? Oghren's your friend. That's right. We understand each other. Now stand still, you stupid mutt...
+Dog: *Yelps and runs away*
+Oghren: Oh, come on! You're so melodramatic! I haven't even put the saddle on yet!
+───────
+Oghren: Eh, right. Okay, I've got a better idea now. I know you don't like me on your back, but how about... a chariot of some kind, huh? Spiked wheels, the crest of my house emblazoned in the front. It would look mighty impressive, I can just see it. And you, my great sodding mutt steed, shall charge headlong into the fray, while I stand in my chariot chopping to the left and to the right. We would fell thousands!
+Dog: *Loud angry barking*
+Oghren: Bah! You have no vision. One day, you'll see, I'll have my team of grand mabari charioteers. And you--sodding dog--you'll be sorry you didn't get in on the action when you could've!
+───────
+Oghren: Don't give me that look, dog. You're about one lifted-leg away from becoming a new pair of boots.
+───────
+Oghren: Watch where you're going, ya sodding great horse of a dog!
+Alistair (If in the party): Oh, he didn't do anything to you. Let it go.
+Oghren: One day, someone's going to kick you, beast. Not saying who, but someone.
+───────
+Oghren: Hey, you stupid mutt. What are you looking at me for? Well you better get moving, you great sodding pile of potential poo.
+Dog: *Growls angrily*
+Oghren: Ha! You give as good as you get, mutt. Maybe there's something to this Ferelden notion of having dog companions. Companions and allies. No need for those big, clomping golems, is there? Just between the two of us, I think those golems are more trouble than they're worth. Too bad so many had to suffer before they figured it out.
+
+Morrigan: I have a wonder, Alistair, if you will indulge me.
+Alistair: Do I have a choice?
+Morrigan: Of the two of you that remain, are you not the senior Grey Warden here? I find it curious that you allow another to lead, while you follow.
+Alistair: You find that curious, do you?
+Morrigan: In fact, you defer to a new recruit. Is this a policy of the Grey Wardens? Or simply a personal one?
+Alistair: What do you want to hear? That I prefer to follow? I do.
+Morrigan: You sound so very defensive.
+Alistair: Couldn't you crawl into a bush somewhere and die? That would be great, thanks.
+(If Alistair's heritage is revealed)
+Morrigan: I was just looking for some of your father in you.
+Alistair: Leave me alone.
+(If Alistair is hardened)
+Alistair: Maybe you'd prefer to lead? That would be worth a good laugh, for a while.
+Morrigan: You sound so very defensive.
+Alistair: Couldn't you crawl into a bush somewhere and die? That would be great, thanks.
+───────
+Morrigan: So I take it you did not enjoy your templar training?
+Alistair: That's directed at me, I take it?
+Morrigan: Do you see any others about who have failed at their religious instruction?
+Alistair: I didn't fail. I was recruited into the Grey Wardens.
+Morrigan: And if you had not been recruited? What would have happened, instead?
+Alistair: I would have turned into a drooling lunatic, slaughtered the grand cleric and run through the streets of Denerim in my small clothes, I guess.
+Morrigan: Your self-awareness does you credit.
+Alistair: I thought you'd like that.
+───────
+Morrigan: Have a care where your eyes linger, Alistair.
+Alistair: Yes, well don't worry. It's not what you think.
+Morrigan: I see.
+Alistair: I was looking at your nose.
+Morrigan: And what is it about my nose that captivates you so?
+Alistair: I was just thinking that it looks exactly like your mother's.
+Morrigan: I hate you so much.
+Alistair: What?
+Morrigan: Never mind.
+───────
+Morrigan: You... do not truly think I look as my mother does, do you?
+Alistair: Have you really been thinking about that all this time?
+Morrigan: I am simply curious.
+Alistair: And not insecure in the slightest, I'm sure.
+Morrigan: I think I look nothing like her.
+Alistair: I don't know. Give it a few hundred years and it'll be a spot-on match.
+Morrigan: I said that I look nothing like her!
+Alistair: All right. Got it. Totally different. I see that now.
+───────
+Alistair: So let's talk about your mother, for a moment.
+Morrigan: I'd rather talk about your mother.
+Alistair: There's nothing to talk about. And besides, isn't your mother a scary witch who lives in the middle of a forest? Much more interesting.
+Morrigan: To you, perhaps. You would find the moss growing upon a stone interesting.
+Alistair: You know what's more interesting than that? Apostates. Mages outside of the Tower. That's illegal, you know.
+Morrigan: You did not read that in a book somewhere, did you? I hope the small letters did not strain you overmuch.
+Alistair: Or we could not talk about your mother. That works for me.
+───────
+Alistair: So tell me something, Morrigan. Did you live there in that forest your entire life?
+Morrigan: I left it on occasion, but I always returned. Why? Is that so strange? It was my home.
+Alistair: But it was just you and your mother there? No one else?
+Morrigan: Mother occasionally had... company.
+Alistair: What? Company? Do I even want to ask?
+Morrigan: No. You really don't.
+───────
+Alistair: Why do you always go on about how stupid I am? I'm not stupid, am I?
+Morrigan: If you need to ask the question...
+Alistair: Because it hurts my manly feelings, you know. All one of them.
+Morrigan: Then I'll be sure to write you an apology once all of this is over.
+Alistair: I was educated by the Chantry. I studied history. They don't make stupid templars.
+Morrigan: Then I must have been mistaken. I'm very impressed.
+Alistair: No you're not. You're not even listening to me.
+Morrigan: My, you are smarter than you look after all. Your Chantry must have been very proud.
+───────
+Alistair: All right. I've come up with one, a question that you can't answer.
+Morrigan: Are you talking to me?
+Alistair: That's right. You think you're so smart? I've got an academic question that I bet you won't be able to answer.
+Morrigan: Oh, I doubt that.
+Alistair: So tell me, then: what was the name of Andraste's husband?
+Morrigan: This is a religious question, not an academic one.
+Alistair: You're joking, right? A five year-old could answer that question. Do you not know more than a child?
+Morrigan: I care nothing for your religion. And this game of yours is over.
+Alistair: Oh, how the mighty have crumbled.
+───────
+(If the Warden is in a relationship with Morrigan)
+Alistair: So what's the deal with you and him, anyway? Dare I ask?
+Morrigan: Him? Him who? Is this supposed to mean something to me?
+Alistair: You know exactly who I'm talking about. Mister Let's-Make-Kissy-Faces over there.
+Morrigan: My, my. You are jealous, aren't you? Did I take your favorite Grey Warden away from you?
+Alistair: What? I'm not jealous! I'm horrified.
+Morrigan: Those blushing cheeks of yours tell a different tale
+Alistair: These blushing cheeks are terrified that you'll suck all the blood out of them once you're done with him.
+Morrigan: If I feel the need to suck on anything of yours, Alistair, you'll be the first to know.
+Alistair: That... was so not what I meant.
+Morrigan: Perhaps we should go and tell him together of your touching concerns? Perhaps he'll pay more attention to you if you ask nicely.
+Alistair: Uh-huh. I think we're done here.
+Morrigan: Done before you started, in fact.
+───────
+(If the Warden is in a relationship with Alistair)
+Morrigan: I do wonder. Is it permissible for two Grey Wardens to... oh, what is the word I search for?
+Alistair: Caboodle?
+Morrigan: Fraternize.
+Alistair: What's wrong with fraternizing?
+Morrigan: It seems most undisciplined, for an organization that claims it will do whatever is necessary to end the darkspawn threat.
+Alistair: One thing has nothing to do with the other.
+Morrigan: Oh no? And what if a Grey Warden has forced to choose between the Warden he loved and ending the Blight? What should his choice be?
+Alistair: That is a... a ridiculous question.
+Morrigan: And I have my answer. Most kind of you.
+───────
+(After Alistair's heritage is revealed)
+Morrigan:
+There is one thing I do not understand, Alistair.
+(Alternate) I have something to ask you.
+Alistair: Just the one thing?
+Morrigan: About you, perhaps. Why the deception over your parentage?
+Alistair: I'd figure you'd be the sort who knows all about deception.
+Morrigan: I do. And what use the deception might have had ended when King Cailan perished, did it not?
+Alistair: Maybe. I guess I was sort of hoping that would go away.
+Morrigan: The truth does not "go away".
+Alistair: I didn't say it was a good plan.
+───────
+(After completing Alistair's Family)
+Morrigan: So you met this sibling of yours?
+Alistair: Half-sister, but yes.
+Morrigan: And she turned out to be an insufferable hag?
+Alistair: You'd have liked her. You two have a lot in common.
+Morrigan: And you let her berate you? Without punishment?
+Alistair: It's moments like this when I truly appreciate the difference between you and me.
+Morrigan: (Scoffs) 'Tis moments like this when I truly wonder at the difference between you and a toadstool.
+(Alternate)
+Morrigan: And you made a promise to help her?
+Alistair: Err... yes?
+Morrigan: Why would you do such a thing? This woman is a parasite who will appreciate nothing you do for her, you know this!
+Alistair: It's moments like this when I truly appreciate the difference between you and me.
+Morrigan: (Scoffs) 'Tis moments like this when I truly wonder at the difference between you and a toadstool.
+(Alternate)
+Morrigan: And you gave the woman money?
+Alistair: Err... yes?
+Morrigan: Why would you do such a thing? This woman is a parasite who will appreciate nothing you do for her, you know this!
+Alistair: It's moments like this when I truly appreciate the difference between you and me.
+Morrigan: (Scoffs) 'Tis moments like this when I truly wonder at the difference between you and a toadstool.
+───────
+(After completing Broken Circle)
+Alistair: So tell me, was the Tower of Magi everything you thought it would be?
+Morrigan: Abominations running rampant? Templars ready to slaughter every mage in sight? Yes, it rather met all my expectations.
+Alistair: You don't think you might have been better off getting your training there? Instead of whatever your mother taught you?
+Morrigan: You're right. My mother didn't nearly have as many abominations running about. That certainly would have improved my education.
+Alistair: Hmm. I'll give you that one.
+Morrigan: I'm so relieved.
+───────
+(After a female Warden ends romance with Alistair.)
+Morrigan: Am I to understand that you two have ended your relationship?
+Alistair: Shut up! That is none of your business.
+Morrigan: What? No questions allowed? You do not wish your motivations-
+Alistair: I said shut up! I will run this sword through you, I'm not joking.
+Morrigan: Oh, I see. Most serious then.
+Alistair: This discussion is over.
+───────
+(If Alistair is to become king)
+Alistair: So you've heard, I hope? How I'm going to be king? With a crown and everything.
+Morrigan: Proud of yourself, are you?
+Alistair: Well, they don't let just anyone be king, you know. They don't let evil forest witches be king for instance.
+Morrigan: There was a Ferelden king once who drooled on himself in such volume that he required a constant attendant to wipe his chin in court.
+Alistair: You're making that up.
+Morrigan: Not at all. The kings of old would be pleased to see their bloodline has not strayed very far from its roots.
+───────
+(During Warden's Keep)
+Alistair: Soldier's Peak. Looks like it's seen better days. Better centuries more like.
+Morrigan: Once the Wardens flourished, their ranks full, their calibre certain. Now they even accept people like you, Alistair.
+Alistair: Hey!
+Morrigan and Dog Edit
+Morrigan: Stop looking at me, mongrel. I have nothing you want!
+Dog: (Whine!)
+Morrigan: Why do you keep staring at me so, you flea-ridden beast? Can you not tell when you are not wanted?
+Dog: (Whine!)
+Morrigan: I enjoy the company of creatures of the wild. Not stench-ridden, domesticated wolves.
+Dog: (Whine!)
+Morrigan: And he persists! Maddening!
+Dog: (Happy bark!)
+───────
+Morrigan: You ate my entire bag of herbs, you foolish dog. Do not think I am unaware of where it went.
+Dog: (Unhappy whine!)
+Morrigan: 'Tis your own fault for being so entirely gluttonous. Several of those herbs were poisonous. You should be pleased they did not kill you.
+Dog: (Conversational Barking)
+Morrigan: Do not be ridiculous. I am certainly not going to give you more, even if I did have more to give.
+Dog: (Whine!)
+Morrigan: Ugh. You have some nerve, creature. And your breath leaves much to be desired. Off you go.
+Dog: (Whine!)
+Morrigan: We shall see. I promise nothing.
+───────
+Dog: (Plaintive whine)
+Morrigan: Another? I just gave you one, fool dog.
+Dog: (More insistent whine)
+Morrigan: Perhaps you should go and hunt something, then. For a warrior beast you are remarkably over dependent.
+Dog: (Happy bark!)
+Morrigan: Oh, very well. But tell no one.
+Morrigan and Leliana Edit
+Leliana: I'm wondering Morrigan... do you believe in the Maker?
+Morrigan: Certainly not. I've no primitive fear of the moon such that I must place my faith in tales so that I may sleep at night.
+Leliana: But this can't all be an accident. Spirits, magic, all these wondrous things around us both dark and light. You know these things exist.
+Morrigan: The fact of their existence does not presuppose an intelligent design by some absentee father-figure.
+Leliana: So it is all random, then? A happy coincidence that we are all here?
+Morrigan: Attempting to impose order over chaos is futile. Nature is, by its very nature, chaotic.
+Leliana: I don't believe that. I believe we have a purpose. All of us.
+Morrigan: Yours, apparently being to bother me.
+───────
+Leliana: So you truly do not believe in any sort of higher power?
+Morrigan: It has been bothering you, I see. No, I do not. Must I?
+Leliana: What do you believe happens to you after you die then? Nothing?
+Morrigan: I do not go sit by the Maker's side, if that's what you mean.
+Leliana: Only those who are worthy are brought to the Maker's side. So many other sad souls are left to wander in the void, hopeless and forever lost.
+Morrigan: And what evidence of this have you? I see only spirits, no wandering ghosts of wicked disbelievers.
+Leliana: It must be so sad to look forward to nothing, to feel no love and seek no reward in the afterlife.
+Morrigan: Yes, the anguish tears at me so. You have seen through me to my sad, sad core.
+Leliana: Now you're simply mocking me.
+Morrigan: You notice? It appears your perceptive powers know no bounds.
+───────
+Leliana: Let me ask you this, then, Morrigan. What if there really was a Maker?
+Morrigan: Then I would wonder why He has abandoned His creation. It seems terribly irresponsible of Him.
+Leliana: He left us because we were determined to make our own way, even if we hurt outselves, and He could not bear to watch.
+Morrigan: But how do you know? You cannot ask Him this. Perhaps He has gone to a new creation elsewhere, and abandoned this as a dismal failure, best forgotten.
+Leliana: I do not need to know because I have faith. I believe in Him and feel His hope and His love.
+Morrigan: "Faith." How quickly those who have no answers invoke that word.
+Leliana: How can someone who practices magic have so little capacity to believe in that which she cannot see?
+Morrigan: Magic is real. I can touch it and command it and I need no faith for it to fill me up inside. If you are looking for your higher power, there it is.
+Leliana: But only if you can control it. I do not envy the loneliness you must feel at times Morrigan.
+Morrigan: I... leave me be. Loneliness would be preferred to this... endless chatter.
+───────
+Leliana: They say your mother is Flemeth, a witch of the Korcari Wilds.
+Morrigan: They also say that washing your feet in winter makes you catch cold in the head, but we all know that is not true. But sometimes they are right and they are right in this.
+Leliana: You know the stories about--
+Morrigan: Of course. You think my mother would let me go without telling me all the stories of her youth?
+Leliana: My mother told me stories too. She was the one who kindled my love of the old tales and legends.
+Morrigan: Hmph. my mother's stories curdled my blood and haunted my dreams. No little girl wants to hear about the Wilder men her mother took to her bed, using them till they were spent, then killing them. No little girl wants to be told that this is also expected of her, once she comes of age.
+Leliana: I... uh... I see.
+Morrigan: No, you don't. You really don't.
+───────
+Leliana: Do you have any tales of the wilds?
+Morrigan: None of the sort you like. No princesses in tall towers or knights throwing themselves at whole armies.
+Leliana: That's not all I like!
+Morrigan: Do you want tales of the Chasind Wilders who dwell in the marsh? Do you want to hear of the slow deaths they inflict on their enemies? Perhaps a tale of the poisonous creatures of the Wilds that lay their eggs on your skin so that their young may eat you alive when hatched? Or a tale of my mother's marsh cuisine? That, in my opinion, is the most terrifying of all my tales.
+Leliana: Uh... no. I don't want to hear about those things...
+Morrigan: Then I have no tales for you.
+───────
+Leliana: You are very beautiful Morrigan.
+Morrigan: Tell me something I do not know.
+Leliana: But you always dress in such rags. It suits you I suppose. A little tear here, a little rip there to show some skin. I understand.
+Morrigan: You understand I lived in a forest, I hope?
+Leliana: Maybe we could get you in a nice dress one day. Silk. No, maybe velvet. Velvet is heavier, better to guard against the cold in Ferelden. Dark red velvet, yes. With gold embroidery. It should be cut low in the front of course, we don't want to hide your features.
+Morrigan: Stop looking at my breasts like that. 'Tis most disturbing!
+Leliana: You don't think so? And if it's cut low in the front we must put your hair up to show off that lovely neck.
+Morrigan: You are insane. I would sooner let Alistair dress me.
+Leliana: It'll be fun, I promise! We'll get some shoes too! Ah, shoes! We could go shopping together!
+───────
+(Playing a male Warden romancing both Morrigan and Leliana)
+Morrigan: I am not fond of sharing. You should know this.
+Leliana: I haven't asked to borrow anything of yours.
+Morrigan: Nor would I lend it if asked. You would be best to desist and find your own.
+Leliana: Find my own what?
+Morrigan: (sigh) This facade of yours is unconvincing. If 'tis a competition you wish, a competition you shall have.
+Leliana: You wild folk are very odd. And possessive.
+───────
+(Playing a male Warden romancing both Morrigan and Leliana)
+Morrigan: I see you yet continue to be where you are not welcomed.
+Leliana: Are you jealous? Is that what this is about? Because I don't think it's for you to decide what I should or should not do.
+Morrigan: Oh, you may continue on as you have. I am merely informing you that you will suffer the consequences.
+Leliana: You forget, Morrigan. I am not without my own pointy ends, as well. Do not make promises you cannot keep.
+Morrigan: I always keep my promises.
+Leliana: Talk is cheap.
+Morrigan: And this from a bard?
+───────
+(Playing a male Warden romancing both Morrigan and Leliana)
+Morrigan: You can't possibly think he would prefer you?
+Leliana: Funnily, I was about to say the same thing to you.
+Morrigan: Oh, and what exactly is it you believe you have to offer?
+Leliana: I don't know, but if we are together, it will be because he wants me and he loves me; these things are real.
+Morrigan: And yet love grows rotten on the vine so quickly. A sour fruit that offers only a memory of sweetness, what is it worth, truly?
+Leliana: Everything; only a dried up shell of a person would not know that.
+Morrigan: We shall see.
+(If the Warden has slept with Morrigan, but not Leliana there is a little change in the conversation)
+Morrigan: You can't possibly think he would prefer you?
+Leliana: Funnily, I was about to say the same thing to you.
+Morrigan: And yet he and I have made love. Did you know this?
+Leliana: I... suspected as much. All the better, as he will soon discover you have nothing else to offer.
+Morrigan: The world of flesh is one of many weird varied delights. What do you think that he will do when he discovers that you offer only frigid incompetence?
+Leliana: If we reach that point...if we do... it will be because we love each other.
+Morrigan: And yet love grows rotten on the vine so quickly. A sour fruit that offers only a memory of sweetness, what is it worth, truly?
+Leliana: Everything; only a dried up shell of a person would not know that.
+Morrigan: We shall see.
+(the following party banters are cut from the retail game, but for pc users can be restored using the "Morrigan restoration pack" Mod)
+───────
+(Playing a male Warden and romancing Leliana)
+Morrigan: The way you look at him so intently, so hungrily... one would think you have never seen a man before.
+Leliana: Where I look is not your concern.
+Morrigan: It is almost as though you wish he would feel your gaze upon him, and notice you.
+Morrigan: And maybe he does notice you, but what does he see? A girl, skinny like a boy, with wild, ragged hair.
+Leliana: What is your point, Morrigan? That I am not attractive?
+Leliana: I do not need to make disparaging remarks about other women to make myself feel better. I know who I am.
+Leliana: You say that I am the one who tries to be noticed, when it is you. He has ignored your advances, hasn't he?
+Leliana: Perhaps it's time you stop projecting your own troubles on someone else.
+(variation if romance with Morrigan is active)
+Morrigan: The way you look at him so intently, so hungrily... one would think you have never seen a man before.
+Leliana: Where I look is not your concern.
+Morrigan: True enough. There is no way I can deny you this... but why would he choose you, when he could have me?
+Leliana: You're confident, for a woman raised in a swamp, far from anything remotely resembling civilization.
+Morrigan: And maybe that is my appeal? A woman like you, why, he could find in any city in Thedas. You think you are cultured? Worldly?
+Morrigan: Powdered, perfumed, you ooze elegance, but what man wants a woman who lies limp beneath him, frozen in place by the thought that she might ruin her hair?
+Leliana: So you're saying you're wild and uninhibited? I suppose he must like your shrieking, you sound like a genlock being murdered--a sweet, sweet sound to a Grey Warden.
+Leliana: You should try a little harder next time he takes you. I don't think they heard you in the Anderfels.
+Morrigan: Tsk, tsk, Leliana. Watch your jealousy, or you'll give yourself wrinkles.
+Leliana: Get away from me, or I shall have to take drastic measures.
+Morrigan: Resorting to violence. And here I thought you were civilized.
+───────
+(If the Warden dumped Morrigan for Leliana)
+Morrigan: So he has chosen you. You think this is a triumph? Look at him... look at him and know that you will never truly have him.
+Leliana: Jealousy, Morrigan. Tsk, tsk... it is not becoming--
+Morrigan: You mock me, but when he is in your arms, in your bed, telling you he loves you, know that there will be moments when he is thinking of me.
+Leliana: Andraste forgive me, but you, Morrigan, are a bitch. A cruel, cruel bitch, and you will get your comeuppance.
+Morrigan: Perhaps. But even so, you know in your heart that I am right.
+───────
+(If the Warden is in a romance with Morrigan at Love, but not Leliana)
+Leliana: It's nice to see you two together. Love is such a wonderful thing, isn't it?
+Morrigan: What are you talking about? Is this more of your insipidness?
+Leliana: I... was talking about you and the Grey Warden. You don't think the rest of us haven't noticed, I hope?
+Morrigan: There is nothing to notice. What you call "love" is nothing more than a wishful fancy.
+Leliana: Oh, you don't fool me! Deep down inside you must be glad of it.
+Morrigan: Let me tell you one thing, and then let us speak of it no more. Love is a weakness. Love is a cancer that grows inside and makes one do foolish things. Love is death. The love you dream of is something that would be more important to one than anything, even life. I know no such love.
+Leliana: Oh.
+Morrigan: What I know is passion. The respect of equals. Things far more valuable that I'll not speak to you any further. Now begone.
+(variation if the Warden dumped Leliana for Morrigan)
+Morrigan: Let me tell you one thing, and then let us speak of it no more. Love is a weakness. love is a cancer that grows inside and makes one do foolish things. Love is death. The love you dream of is something that would be more important to one than anything, even life. I know no such love.
+Leliana: Oh.
+Morrigan: He chose me over you. If your hope is that he chose something pure and sugary sweet, then you are quite wrong.
+Morrigan: What he chose was passion. The respect of equals. Things far more valuable that I'll not speak to you any further. Now begone.
+───────
+(After completing The Arl of Redcliffe quest)
+Morrigan: I imagine you have already composed a suitable ballad to commemorate the events at Redcliffe, Leliana?
+Leliana: Why would I do such a thing?
+Morrigan: You have taken up your instruments once again, have you not? So to speak. A bard takes events of great import and puts them to tale.
+Leliana: What happened at Redcliffe was horrible! So many people died, and they were violated by unimaginable evil forces.
+Morrigan: That was not so difficult, was it? You may wish to add music however.
+Leliana: You make it sound as if you enjoyed what happened there. I can barely stomach to think of it.
+Morrigan: But we were successful in the end. Victory without cost has little worth.
+Leliana: I just think of what that poor little boy went through... no, I don't want to glorify what happened there.
+Morrigan: Then who will learn from these events? I would think on it some more, were I you.
+───────
+(After starting Leliana's Past)
+Morrigan: So I see you are quite the little deceiver, after all.
+Leliana: Finally decided to gloat, have you?"
+Morrigan: It simply suits my view of the Chantry that one of their devoted sisters should turn out to be so full of hypocrisy.
+Leliana: There are good people in the Chantry. Many good people who are just there to help others.
+Morrigan: And apparently at least a few who are simply pretending to be good.
+Leliana: At least I was trying to be better than I was. At least I regretted the evil I'd done. Better that than be someone who's never loved anyone or anything, least of all herself. Anything but that.
+Morrigan: It seem that at least you got the self-righteousness down part. Well done.
+
+Alistair: So... let me get this straight. You were a cloistered sister?
+Leliana: You must have been a brother before you became a templar, no?
+Alistair: I never actually became a templar. I was recruited into the Grey Wardens before I took my final vows.
+Leliana: Do you ever regret leaving the Chantry?
+Alistair: No, never. Do you?
+Leliana: Yes. You may not believe it, but I found peace there. The kind of peace I've never known.
+Alistair: It used to get so quiet at the monastery that I would start screaming until one of the brothers came running. I would tell them that I was just checking. You never know, right?
+Leliana: I... no, I never did anything like that. I enjoyed the quiet.
+Alistair: Suit yourself. The look on their face was always priceless.
+───────
+Leliana: What was that... soup you made for supper last night?
+Alistair: Ooh, that? That's a traditional Fereldan lamb and pea stew. Did you like it?
+Leliana: Oh, so... it was lamb then? It had a certain... texture I don't normally associate with lamb.
+Alistair: They didn't make lamb and pea stew for you in Lothering?
+Leliana: We ate simply there. Whole grains, made into biscuits or bread, and vegetables from the garden, cooked lightly. No heavy stews.
+Alistair: Ah, so the last lamb you had was probably cooked Orlesian style. Food shouldn't be frilly and pretentious like that. Now here in Ferelden, we do things right. We take our ingredients, throw them into the largest pot we can find, and cook them for as long as possible until everything is a uniform grey color. As soon as it looks completely bland and unappetizing, that's when I know it's done.
+Leliana: You're having me on.
+Alistair: (Laughs) You need to eat in more Fereldan inns.
+───────
+Alistair: You know, I've heard about the Orlesian bards.
+Leliana: Who hasn't? They're quite famous, after all.
+Alistair: The stories I heard were a little... racier. It had to do with how a bard assassinated her target. How they were... lulled into complacency.
+Leliana: If those stories were true, who would ever agree to entertain a bard in their court?
+Alistair: Oh, I don't know, there's a certain allure to danger, isn't there? And besides, you couldn't all be assassins, could you? I'd take my chances. If the stories were true, that is.
+Leliana: We had rules about that sort of thing. Strict rules.
+Alistair: Such as? You're not going to tell me, are you?
+Leliana: Let's just say I had plenty of reasons to join the Chantry, shall we? And leave it at that.
+───────
+Alistair: I will never get over how quietly you are able to move.
+Leliana: It took me years and years to learn and even then I am not the best at it.
+Alistair: So you didn't sneak around when spying?
+Leliana: We all had different ways of doing things. Some preferred not to be seen at all, to cloak themselves in shadow and darkness. I realized that it is not such a bad thing to be seen, as long as you do not stand out and are quickly forgotten. I specialized in blending in, not drawing attention and looking like I had every right to be there. It is invisibility, but of another kind.
+Alistair: Ah, yes, but I heard you often seduced your targets. They'd remember you.
+Leliana: Not if they died...
+Alistair: Oh.
+Leliana: Dying while in the company of a lovely seductress... tell me that isn't a good death.
+Alistair: I don't know if I should take you seriously... but you scare me sometimes.
+───────
+(after leaving Lothering)
+Alistair: So what do you think will happen to all those people we left behind in Lothering?
+Leliana: Some of them will find their way to Denerim. Many will die. As the Maker wills.
+Alistair: Don't you wish you could have stayed there? To help more people, I mean?
+Leliana: If the Blight isn't stopped, everyone will die. This is the greater good we're serving, both of us, right here.
+Alistair: So it's all right to let some people die for the greater good? I... I'm not so sure about that. I felt bad leaving all those people there, all panicked and helpless.
+Leliana: You're doing what you must, Alistair. There will be worse to come yet... you will need to steel yourself, you know this.
+Alistair: I've never been very good at that. The steeling myself part. I find it better sometimes to just be a little weak. I'm all right with that, really.
+Leliana: I don't believe you. And either way, it's not as if any of us has a choice.
+───────
+(if the Warden is in a romance with Morrigan)
+Alistair: So have you heard? Morrigan and him are... you know.
+Leliana: Have you nothing better to do than to spread idle gossip? And besides, he can probably hear us both. You're not being very discreet.
+Alistair: No, look, he's not even paying attention.
+Leliana: Hmmm. maybe. You don't... think that he's serious about it, do you? The woman is a vile fiend.
+Alistair: Well, look here, now who's an idle gossip? Me-ow!
+Leliana: You're the one who started this, I might remind you. And I'm... well, I'm ending it!
+───────
+(if the Warden is in a romance with Alistair)
+Alistair: So... you're female, Leliana, right?
+Leliana: I am? That's news. When did that happen?
+Alistair: I just wanted some advice. What should I do if... if I think a woman is special and--
+Leliana: You want to woo her? Here's a good tip: you shouldn't question her about her female-ness.
+Alistair: All right, yes. Good point.
+Leliana: Why do you ask? Are you afraid things will not proceed naturally?
+Alistair: Why would they? Especially when I do things like ask women if they're female.
+Leliana: It adds to your charm, Alistair. You are a little awkward. It is endearing.
+Alistair: So I should be awkward? Didn't you just say not to do things like that?
+Leliana: Just be yourself. You do know how to do that, don't you?
+Alistair: All right, forget I asked.
+───────
+(if a male Warden is in a romance with Leliana)
+Alistair: So... this thing you and him have going? Doesn't that violate your vows?
+Leliana: What? What kind of question is that to just blurt out? What do we "have going"?
+Alistair: Yes, I'm that blind. I so totally did not see you ogling each other before.
+Leliana: He was not ogling me. Was he? Was he really ogling me?
+Alistair: Now that you say it, I'm not sure. Maybe he wasn't ogling you. I don't know... I could always ask him...
+Leliana: You can't do that! Could you? You couldn't do that...
+Alistair: I could. But I won't. Next thing you'll have me pulling his hair and passing him love letters.
+Leliana: I... just mind your own business. How inappropriate!
+───────
+(if the Warden is in a romance with Zevran)
+Alistair: So I'm wondering something... what exactly does a woman see in a man like Zevran?
+Leliana: Oh, he's handsome enough for some. Why do you ask?
+Alistair: No reason. It's just... doesn't he seem to be a bit too much? The hair, the clothing...
+Leliana: I don't understand. A bit too much what? Do you have a problem with him?
+Alistair: Beyond the fact that he's an assassin who's tried to kill us more than once. No... no, not really. Do women go for that sort of thing?
+Leliana: Where I come from they do, oh yes.
+Alistair: Huh. Really? I see.
+───────
+(after Alistair's heritage is revealed)
+Leliana: There are many great tales of lost kings who return to their lands to reign in glory...
+Alistair: I am not lost. Nor, for that matter, a king. And there is nothing glorious about me.
+Leliana: You are Maric's son; you are the rightful king of Ferelden.
+Alistair: I am the son of a star-struck maid and an indiscreet man who just happened to be king. Look, I can't be king. Some days I have trouble figuring out which boot goes on which foot.
+Leliana: Complete fools are made leaders of kingdoms all the time, and you're not a complete fool.
+Alistair: What an utter relief.
+Leliana: And don't worry about the boots. Kings don't need to dress themselves. that's what advisors are for, isn't it?
+Alistair: And star-struck maids, apparently.
+
+Leliana: You are such a handsome dog. I think that every time I look at you.
+Dog: (Happy bark!)
+Leliana: Lady Cecilie—I lived with her after my mother died—had a dog. A small one, bred to fit under the arm and in the lap.
+Leliana: What did she name it... oh, yes. Bon-Bon. Oh, Bon-Bon was a terror. He would hide, you know, when he saw you coming...
+Leliana:And then he would attack your ankles. Razor-sharp teeth in the ankles... very painful.
+Leliana: He attacked me once. Latched onto my leg. I thought it was a diseased rat and kicked. Bon-Bon flew across the room and over the banister.
+Leliana: He survived, but he never came near me after that.
+───────
+Leliana: I have been setting down, in ink, the tales of our exploits, and I have been thinking about ways to describe you. You are unlike any animal I have ever met, almost human in your intelligence and understanding. So, let me see... you are loyal, yes? That one is obvious. Very, very clever... this is also obvious. You are terrifying when you have to be, but gentle and sweet as a dove at other times. And you are also playful... sometimes gluttonous--
+Dog: (Dog interrupts Leliana with a series of short, sharp barks.)
+Leliana: No? What is all this begging for food scraps then?
+Dog: (Whines)
+Leliana: Well, all right. You're not gluttonous. You're just... a lover of fine foods. How's that?
+Dog: (He barks happily and wags his tail.)
+
+Alistair: Just how smart are mabari supposed to be, anyway? Do you think they understand everything we say?
+Dog: (Conversational barking)
+Alistair: Oh, is that so? You could just be listening to the tone of my voice. You could be an utter moron, for all we know.
+Dog: (Angry growl)
+Alistair: Hey, now. There's nothing saying that a moron can't be cute and adorable. Who's the cute and adorable puppy?
+Dog: (Happy Barking)
+Alistair: Ah, Ignorance is bliss, isn't it? That's what the Chantry kept telling me, anyhow.
+───────
+Alistair: Do you really know what's going on here? The Blight, the civil war... I really wonder how much of it you understand.
+Dog: (He wags tail happily.)
+Alistair: We're all special... big parts to play. Even you. Especially you, in some ways. You are the mabari. You guard one of the most important people--
+Dog: (Excited Bark)
+Alistair: What?
+Dog: (Excited barking!)
+Alistair: You... you want to play? But I'm talking. Why doesn't anyone want to hear me talk?
